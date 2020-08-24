@@ -1,11 +1,11 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 60 Min. | Übungszeit: 90 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
-
+Metriken, Messungen, Mathematische Modelle, Umsetzungsprüfung, Ist-Architektur, Soll-Architektur,
+Pain Points, Werkzeuge, Rekonstruktion.
 
 // end::DE[]
 

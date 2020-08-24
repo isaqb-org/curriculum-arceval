@@ -4,10 +4,10 @@
 Bitte die **?** durch die Anzahl der Tage sowie die erreichbaren Punkte ersetzen.
 ====
 // end::REMARK[]
-:recommended-duration-in-days: **?**
-:methodical-credits: **?**
-:technical-credits: **?**
-:communicative-credits: **?**
+:recommended-duration-in-days: 2
+:methodical-credits: 20
+:technical-credits: 0
+:communicative-credits: 0
 
 // tag::DE[]
 === Dauer, Didaktik und weitere Details
@@ -16,6 +16,8 @@ Die unten genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul
 sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
 Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
 Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
+
+Das Modul kann unabhängig von einer CPSA-F-Zertifizierung besucht werden
 
 Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:
 

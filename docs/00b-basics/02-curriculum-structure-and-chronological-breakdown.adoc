@@ -4,14 +4,13 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
-| |
-| Summe | 960 (16h)
+| 1.  Grundbegriffe von Software-Architekturbewertung |	120
+| 2. Anforderungen in der Architekturbewertung | 150
+|3. Bewertungsworkshop	| 240
+|Nacharbeit und Ergebnisverwertung	| 90
+|Bewertung bestehender System(-teil)e | 150
+|Beispiele für die Bewertung von Software-Architekturen | 90
+| Summe | 840 (14h)
 
 |===
 

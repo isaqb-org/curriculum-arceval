@@ -1,16 +1,13 @@
-// header file for curriculum section 1: ERSTE LERNEINHEIT
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-
 // tag::DE[]
-== Dies ist der Titel des ersten Moduls
+== Nacharbeit und Ergebnisverwertung
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== Fourth Module, This is its Title
 // end::EN[]
-
 
 include::01-duration-terms.adoc[{include_configuration}]
 

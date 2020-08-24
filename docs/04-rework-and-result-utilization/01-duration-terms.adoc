@@ -1,10 +1,10 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 45 Min. | Übungszeit: 45 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Risikocluster, Minderungsmaßnahmen, Kommunikation der Ergebnisse, Entscheidungsplanung, Last Responisble Moment.
 
 
 // end::DE[]
@@ -16,7 +16,6 @@ Begriff 1, Begriff 2, Begriff 3
 
 === Terms and Principles
 Term 1, Term 2, Term 3
-
 // end::EN[]
 
 // tag::REMARK[]

@@ -3,17 +3,16 @@
 
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+- Grundlagen der Beschreibung von Architekturen mit Hilfe verschiedener Sichten, übergreifender Konzepte, Entwurfsentscheidungen, Randbedingungen etc., wie es im CPSAF Foundation Level vermittelt wird.
+- Wünschenswert sind eigene Erfahrungen in der Erstellung und Pflege von Software, insbesondere der Architektur von Software- oder Software-nahen Systemen.
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+- Kenntnis typischer Herausforderungen beim Entwurf von Software-Architekturen:
+  * Auswahl geeigneter Dokumentationsstrukturen, Notationen, Ergebnistypen (Stakeholderorientierung)
+  * Gemeinsame Arbeit an grundlegenden Konzepten der zu erstellenden Software
+  * Orientierung von Software-Architektur an Anforderungen und Rahmenbedingungen
+  * Messung und Evaluation der Qualität von Entwürfen und Entscheidungen
 // end::DE[]
 
 // tag::EN[]
