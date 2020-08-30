@@ -3,7 +3,7 @@
 
 
 // tag::DE[]
-== Grundbegriffe von Software-Architekturbewertung
+== Grundbegriffe von Architekturbewertung
 // end::DE[]
 
 // tag::EN[]

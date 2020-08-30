@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 
-Software-Architektur, Software-Architekturbewertung, übergreifende Konzepte/Aspekte, Architekturziele, nichtfunktionale und funktionale Anforderungen an Systeme, Einflussfaktoren, Bewertungsmethoden.
+Softwareachitektur, Architekturbewertung, übergreifende Konzepte/Aspekte, Architekturziele, nichtfunktionale und funktionale Anforderungen an Systeme, Einflussfaktoren, Bewertungsmethoden.
 
 // end::DE[]
 

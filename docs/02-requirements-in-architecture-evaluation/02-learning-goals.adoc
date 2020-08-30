@@ -5,8 +5,11 @@
 ==== LZ 2-1: Qualitative Anforderungen untersuchen und behandeln
 
 Bedeutung von qualitativen Anforderungen für die Architektur erklären.
+
 Begriff der Qualität (angelehnt an DIN/ISO 9126) und von Qualitätsmerkmalen erklären.
+
 Qualitätsmodelle (wie etwa DIN/ISO 9126) erklären.
+
 Eigenschaften wichtiger Qualitätsmerkmale verstehen:
 
     * Grundlegende Herangehensweise zur Behandlung erklären

@@ -3,7 +3,7 @@
 
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Grundlagen der Beschreibung von Architekturen mit Hilfe verschiedener Sichten, übergreifender Konzepte, Entwurfsentscheidungen, Randbedingungen etc., wie es im CPSAF Foundation Level vermittelt wird.
+- Grundlagen der Beschreibung von Architekturen mit Hilfe verschiedener Sichten, übergreifender Konzepte, Entwurfsentscheidungen, Randbedingungen etc., wie es im CPSA-Foundation Level vermittelt wird.
 - Wünschenswert sind eigene Erfahrungen in der Erstellung und Pflege von Software, insbesondere der Architektur von Software- oder Software-nahen Systemen.
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:

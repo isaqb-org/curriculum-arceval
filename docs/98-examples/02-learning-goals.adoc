@@ -19,8 +19,8 @@ Einige Beispiele (möglichst) realitätsnaher Bewertungsinputs und Bewertungserg
 * Dokumentierte Rahmenbedingungen
 * Dokumentierte Entscheidungen
 * Architekturüberblick
-* Pain Points und sensitve Punkte
-* Dokumentierte Kompromisse, Risiken und Nicht-Risiken.
+* Pain Points und sensitive Punkte
+* Dokumentierte Kompromisse, Risiken und Nicht-Risiken
 
 // end::DE[]
 

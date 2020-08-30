@@ -1,6 +1,6 @@
 // tag::DE[]
 :lang: DE
-:basics: Grundlegendes zum Modul Architekturbewertung
+:basics: Grundlegendes
 :toc-title: Inhaltsverzeichnis
 :learning-goals: Lernziele
 :references: Referenzen

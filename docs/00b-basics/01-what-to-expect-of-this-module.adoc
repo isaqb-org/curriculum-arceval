@@ -1,14 +1,6 @@
 // tag::DE[]
-=== Gliederung des Lehrplans für Architekturbewertung und empfohlene zeitliche Aufteilung
 
- * Grundbegriffe von Software-Architekturbewertung (mind. 2h)
- * Anforderungen in der Architekturbewertung (mind. 2.5h)
- * Bewertungsworkshop (mind. 4h)
- * Nacharbeit und Ergebnisverwertung (mind. 1.5h)
- * Bewertung bestehender System(-teil)e (2.5h)
- * Beispiele für die Bewertung von Software-Architekturen (mind. 1.5h)
-
-(Zeiten jeweils inklusive Übungen)
+TBD
 
 // end::DE[]
 
