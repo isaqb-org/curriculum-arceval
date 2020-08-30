@@ -35,9 +35,9 @@ ATTENTION: labels have to be non-numeric.
 **B**
 
 - [[[bachmann,Bachmann+2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[barbacci, Barbacci+2003]]] Barbacci, M.R., Ellison, R., et al.: Quality Attribute Workshops (QAWs), Third Edition. Software Engineering Institute, CMU/SEI-2003-TR-016
-- [[[bass,Bass+2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
-- [[[bass2006, Bass+2006]]] Bass, L., Nord, R., et al.: Risk Themes Discovered Through Architecture Evaluations. Software Engineering Institute, CMU/SEI-2006-TR-012
+- [[[barbacci, Barbacci+2003]]] Barbacci, M.R., Ellison, R., et al.: Quality Attribute Workshops (QAWs), Third Edition. Software Engineering Institute, CMU/SEI-2003-TR-016.
+- [[[bass,Bass+2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass.
+- [[[bass2006, Bass+2006]]] Bass, L., Nord, R., et al.: Risk Themes Discovered Through Architecture Evaluations. Software Engineering Institute, CMU/SEI-2006-TR-012.
 
 **C**
 
@@ -47,7 +47,7 @@ ATTENTION: labels have to be non-numeric.
 
 **D**
 
-- [[[deMarco,DeMarco+2006]]] DeMarco, T.: Controlling Software Projects: Management, Measurement and Estimation. Prentice Hall, 1986
+- [[[deMarco,DeMarco+2006]]] DeMarco, T.: Controlling Software Projects: Management, Measurement and Estimation. Prentice Hall, 1986.
 
 **H**
 
@@ -56,9 +56,9 @@ ATTENTION: labels have to be non-numeric.
 
 **K**
 
-- [[[kazman,Kazman+2000]]] Kazman, R., Klein, M., Clements, P.: ATAM: Method for Architecture Evaluation. Software Engineering Institute, CMU/SEI-2000-TR-004
+- [[[kazman,Kazman+2000]]] Kazman, R., Klein, M., Clements, P.: ATAM: Method for Architecture Evaluation. Software Engineering Institute, CMU/SEI-2000-TR-004.
 
-- [[[kazman2005,Kazman+2005]]] Kazman, R., Bass, L.: Categorizing Business Goals for Software Architectures. Software Engineering Institute, CMU/SEI-2005-TR-021
+- [[[kazman2005,Kazman+2005]]] Kazman, R., Bass, L.: Categorizing Business Goals for Software Architectures. Software Engineering Institute, CMU/SEI-2005-TR-021.
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
@@ -69,7 +69,7 @@ ATTENTION: labels have to be non-numeric.
 **N**
 
 - [[[nord, Nord+2003]]] Nord, R.L., Barbacci, M.R., et al.: Integrating the Architecture Tradeoff Analysis Method (ATAM) with
-the Cost Benefit Analysis Method (CBAM). Software Engineering Institute, CMU/SEI-2003-TN-038
+the Cost Benefit Analysis Method (CBAM). Software Engineering Institute, CMU/SEI-2003-TN-038.
 
 **S**
 
