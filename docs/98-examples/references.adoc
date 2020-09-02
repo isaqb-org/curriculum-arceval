@@ -1,6 +1,6 @@
 === {references}
 
-<<bachmann>>, <<kruchten>>
+Keine. Schulungsanbieter sind für die Auswahl und Beschreibung von Beispielen verantwortlich.
 
 
 // tag::REMARK[]

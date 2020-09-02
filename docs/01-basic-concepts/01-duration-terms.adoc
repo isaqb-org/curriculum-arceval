@@ -1,10 +1,11 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 90 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+
+Softwareachitektur, Architekturbewertung, übergreifende Konzepte/Aspekte, Architekturziele, nichtfunktionale und funktionale Anforderungen an Systeme, Einflussfaktoren, Bewertungsmethoden.
 
 // end::DE[]
 

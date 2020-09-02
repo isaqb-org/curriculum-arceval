@@ -1,0 +1,82 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-2-1]]
+==== LZ 2-1: Qualitative Anforderungen untersuchen und behandeln
+
+Bedeutung von qualitativen Anforderungen für die Architektur erklären.
+
+Begriff der Qualität (angelehnt an DIN/ISO 9126) und von Qualitätsmerkmalen erklären.
+
+Qualitätsmodelle (wie etwa DIN/ISO 9126) erklären.
+
+Eigenschaften wichtiger Qualitätsmerkmale verstehen:
+
+    * Grundlegende Herangehensweise zur Behandlung erklären
+    * Typische Taktiken zur Erreichung erklären und anwenden
+    * Zusammenhang und Wechselwirkungen von Qualitätsmerkmalen erläutern.
+
+
+[[LZ-2-2]]
+==== LZ 2-2: Qualitätsanforderungen detaillieren und beschreiben
+
+Arten von Szenarien erklären und abgrenzen:
+
+    * Use-Case-Szenarien
+    * Grenzszenarien
+    * Stressszenarien
+
+Erhebungstechniken für Szenarien erklären und anwenden:
+
+    * Brainstorming
+    * Interview
+    * Ableitung aus NFR-Spezifikation
+
+Priorisierung von Szenarien für die Bearbeitung und die Bewertung erklären und durchführen.
+
+Kategorisierung von Szenarien nach Umsetzungsmöglichkeiten verstehen und anwenden:
+
+    * Szenarien als Akzeptanzkriterium (für einige wenige Anforderungen)
+    * Szenarien als Rahmenbedingung (für viele Entscheidungen)
+    * Szenarien als separat umsetzbare Qualitätsanforderung.
+
+Detaillierte Beschreibung von Szenarien: Mögliche Teile zur Verfeinerung und Konkretisierung erklären.
+
+Unterbringung von Szenarien in Architekturdokumentation erklären.
+
+Nutzen und Erstellung eines Qualitätsbaums erklären, eigene Qualitätsbäume erstellen.
+
+[[LZ-2-3]]
+==== LZ 2-3: Was sollen die Teilnehmer verstehen?
+
+* Ohne qualitative Anforderungen ist eine Architektur nicht sinnvoll bewertbar
+* Qualitätsanforderungen widersprechen sich teilweise und werden typischer Weise von unterschiedlichen Stakeholdern unterschiedlich priorisiert
+* Widersprüchliche Qualitätsanforderungen erzwingen Kompromisse in der Architektur. Diese Kompromisse transparent zu machen und angemessen zu entscheiden ist eine zentrale Aufgabe von Architekturbewertungen
+* Konkrete und detaillierte Benennung der treibenden Qualitätsanforderungen ist die Voraussetzung für gute Architekturarbeit und Architekturbewertung
+* Szenarien detaillieren Qualitätsanforderungen
+* Qualitätsbäume strukturieren Szenarien und können bei der Priorisierung von Qualitätsanforderungen helfen.
+
+[[LZ-2-4]]
+==== LZ 2-4: Was sollen die Teilnehmer kennen?
+Taxonomie Qualitätsmerkmale nach ISO 9126 (ohne deren exakte Definition).
+Strukturierung von Qualitätsanforderungen nach Thomas Gilb.
+„Szenariobaukästen“ des SEI der CMU.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-1]]
+==== LG 2-1: TBD
+tbd.
+
+[[LG-2-2]]
+==== LG 2-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

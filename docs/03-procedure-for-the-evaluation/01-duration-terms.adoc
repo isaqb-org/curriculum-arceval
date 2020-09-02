@@ -1,10 +1,10 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 90 Min. | Übungszeit: 150 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+ATAM, Kompromisse, Risiken, Nicht-Risiken, Sensitive Punkte, Entscheidungen, Rahmenbedingungen, Phasen von ATAM, Stakeholder-Beteiligung, szenariobasierte Durchsprache, Bewertungsworkshop, Discovery Review, Zusammenspiel mit der Entwicklung.
 
 
 // end::DE[]

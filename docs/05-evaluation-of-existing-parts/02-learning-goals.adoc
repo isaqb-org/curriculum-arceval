@@ -1,0 +1,63 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Szenariobasierte Bewertung
+
+Szenarienbasierte Bewertung für bestehende Systeme:
+
+* Unterschiede zur Bewertung im Architekturentwicklungsprozess erklären
+* Unterschiede zur Umsetzungsüberprüfung mit Metriken und Messungen erklären
+
+Szenarien aus vorhandenen Problemen ableiten. Mit entsprechenden Fragen Stakeholder zur Definition
+wichtiger Szenarien leiten.
+
+[[LZ-5-2]]
+==== LZ 5-2: Umsetzungsprüfung und Metriken
+
+Ziele der Umsetzungsprüfung auf Basis von Metriken, Messungen und Bewertungstools nennen.
+
+Bewertung von Software-Architekturen im Hinblick auf ihre Umsetzung durchführen, d. h. die Frage beantworten, in wie weit eine Architektur auch im Code umgesetzt wurde. Auch: Bewertung von Software-Architekturen im Hinblick auf allgemeine Best-Practices oder Prinzipien durchführen:
+
+* Quellcode, bekannte Fehler in Quellcode und Fehlercluster analysieren
+* Unterstützende Tools und Metriken kennen und anwenden
+* Operationalisierung entsprechender Überprüfungen im Prozess integrieren (beispielsweise als Teil des Check-In-Vorgangs, im Build etc.).
+
+Konkrete Metriken für die Überprüfung von Design Best-Practices erklären. Insbesondere Abstraktion, Instabilität, Distanz, Fan-In/Fan-Out, zyklomatische Komplexität.
+
+Verletzungen der Architekturvorgaben in der Implementierung behandeln
+
+[[LZ-5-3]]
+==== LZ 5-3: Was sollen die Teilnehmer verstehen?
+
+Soll-Architektur und Ist-Architektur sind im Kontext der Umsetzungsprüfung sinnvolle Begriffe um zwischen den Architekturvorgaben und der De-facto-Architektur zu unterscheiden.
+
+Die möglichen unterstützenden Artefakte für die Architekturüberprüfung bestehender Systemteile
+sind vielfältig.
+
+[[LZ-5-4]]
+==== LZ 5-4: Was sollen die Teilnehmer kennen?
+
+Werkzeuge für die Umsetzungsprüfung mit Konformitätschecks und zur Metrikberechnung und entsprechender Auswertung (Bauhaus, Hello2morrow, Eclipse Metrics Plugin, Sonar, etc.).
+
+Techniken zur Rekonstruktion von Architekturentscheidungen und Rekonstruktion der Ist-Architektur.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: TBD
+tbd.
+
+[[LG-5-2]]
+==== LG 5-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

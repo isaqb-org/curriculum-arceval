@@ -1,13 +1,12 @@
-// header file for curriculum section 4: Lerneinheit 4
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Viertes Modul, das ist sein Titel
+== Bewertung bestehender System(-teil)e
 // end::DE[]
 
 // tag::EN[]
-== Fourth Module, This is its Title
+== And This is Module no 5
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

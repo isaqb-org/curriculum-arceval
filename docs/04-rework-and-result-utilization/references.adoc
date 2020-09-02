@@ -1,6 +1,7 @@
 === {references}
 
-<<starke>>
+<<clements2002>>, <<bass>>, <<bass2006>>, <<starke>>
+
 
 // tag::REMARK[]
 [NOTE]
