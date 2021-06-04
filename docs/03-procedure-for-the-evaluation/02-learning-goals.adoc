@@ -12,7 +12,7 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 * Die Schritte der Kernphasen von ATAM (Phase 1 und 2) erklären und auf die Bedürfnisse des eigenen Projekts anpassen.
 
 [[LZ-3-2]]
-==== LZ 3-2: Input für Workshops
+==== LZ 3-2: Input für ATAM Workshops
 
 * Anforderungen an Architekturdokumentation für Bewertungsworkshops verstehen und benennen:
 * Detaillierte Szenarien
@@ -33,28 +33,25 @@ Qualitative Bewertung von Software-Architekturen nach ATAM durchführen:
 * Analyse von Software-Architekturen hinsichtlich Szenarien und Identifikation entsprechender Risiken selbständig durchführen.
 
 [[LZ-3-4]]
-==== LZ 3-4: Bewertung und Vorgehen
+==== LZ 3-4: Alternative Bewertungsmethoden
 
-* Szenariobasierte Bewertungsmethoden in gängige Vorgehensmodelle einbetten
-* Iterative Entwicklung
-* Agile Vorgehensweisen
-* In all diesen Vorgehensmodellen: das Zusammenspiel mit der Umsetzung verstehen und erklären.
+Alternative qualitative Bewertungsmethoden abseits von ATAM benennen und grob erklären:
+* DCAR: Decision Centric Architecture Review
+* PBAR: Pattern Based Architecture Review
+* TARA: Tiny Architecture Review Approach
+* CBAM: Cost-Benefit Analysis Method
+
+Stärken und Schwächen der Methoden benennen und die Methoden bedarfsgerecht einsetzen 
 
 [[LZ-3-5]]
-==== LZ 3-5: Was sollen die Teilnehmer verstehen?
+==== LZ 3-5: Bewertung und Vorgehen
 
-* Architekturbewertung ist als Teil des Entwicklungsprozesses (wiederkehrend) effektiver als ein Qualitätscheck vorhandener Software (nach erfolgter Implementierung).
-* Die breite Beteiligung verschiedener Stakeholder ist wichtig für den Erfolg von Bewertungsworkshops.
-* Bewertungsworkshops und die szenariobasierte Methodik verbessern die Kommunikation im Projekt und die Transparenz gegenüber Umsetzern und Kunden.
-* CBAM ist eine ergänzende Methodik, die bei Kompromissen eingesetzt werden kann. Nutzenkurven helfen beim fällen schwieriger Entscheidungen.
+* Bewertungen nach Größe skalieren und Methoden bedarfsgerecht auswählen und anpassen
 * Quantitative Techniken können zur Unterstützung von szenariobasierten Bewertungen eingesetzt werden.
-* Die Einführung von Bewertungsworkshops im eigenen Projekt oder Unternehmen muss geplantwerden und schrittweise erfolgen.
-
-[[LZ-3-6]]
-==== LZ 3-5: Was sollen die Teilnehmer kennen?
-
-Unterschiede in der Durchführung von Bewertungsworkshops mit unterschiedlichen Teilnehmergruppen (interne und externe Stakeholder).
-Unterschiede verschiedener szenariobasierter Methoden bei der Bewertung selbst (SAAM, ATAM, CBAM, LAAAM).
+* Bewertungsmethoden in gängige Vorgehensmodelle einbetten
+* Architekturbewertung ist als Teil des Entwicklungsprozesses (wiederkehrend) effektiver als ein Qualitätscheck vorhandener Software (nach erfolgter Implementierung).
+* Iterative und agile Entwicklung mit Bewertungsmethoden unterstützen
+* Zusammenspiel mit der Umsetzung verstehen und erklären.
 
 // end::DE[]
 

@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-ATAM, Kompromisse, Risiken, Nicht-Risiken, Sensitive Punkte, Entscheidungen, Rahmenbedingungen, Phasen von ATAM, Stakeholder-Beteiligung, szenariobasierte Durchsprache, Bewertungsworkshop, Discovery Review, Zusammenspiel mit der Entwicklung.
+ATAM, Kompromisse, Risiken, Nicht-Risiken, Sensitive Punkte, Entscheidungen, Rahmenbedingungen, Phasen von ATAM, Stakeholder-Beteiligung, szenariobasierte Durchsprache, Bewertungsworkshop, Discovery Review, Zusammenspiel mit der Entwicklung, CBAM, DCAR, PBAR, TARA.
 
 
 // end::DE[]

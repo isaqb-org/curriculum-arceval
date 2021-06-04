@@ -2,27 +2,28 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Was sollen die Teilnehmer können?
+==== LZ 4-1: Ergebnistypen von Bewertungen
 
-* Die Ergebnisse von Bewertungsworkshops erarbeiten, dokumentieren und erklären:
+Die direkten Ergebnisse von Bewertungen erarbeiten, dokumentieren und erklären:
 * Risiken
 * Nicht-Risiken
 * Kompromisse
 * Sensitive Punkte
 * Allgemeine ToDos
-* Ergebnisse von Bewertungsorkshops entsprechend verwerten und verfolgen
-* Kommunikationsmittel für die Vermittlung von Ergebnissen kennen und nutzen.
+
+Abgeleitete und verdichtete Ergebnistypen benennen und herstellen können:
+* Risikoclsuter und Risikogruppen
+* Stärken und Schwächen einer Architektur
+* Lücken zu den zentralen Qualitätszielen 
+* Empfehlungen und deren Einsortierung in Lücken und Potentiale
 
 [[LZ-4-2]]
-==== LZ 4-2: Was sollen die Teilnehmer verstehen?
+==== LZ 4-2: Ergebnisformen und deren Herstellung
 
-Risiken müssen aktiv angegangen werden.
-Noch offene Entscheidungen müssen geplant werden.
-
-[[LZ-4-3]]
-==== LZ 4-3: Was sollen die Teilnehmer kennen?
-
-Methoden zur Risikoeinschätzung und -behandlung.
+Kommunikationsmittel für die Vermittlung von Ergebnissen kennen und nutzen:
+* Reports gliedern und wichtige Teile benennen
+* Ergebnispräsentationen strukturieren
+* Iterative Prozesse mit Ergebnissen befeuern - Risiken aktiv angehen, offene Entscheidungen planen, Unsicherheiten ausräumen, ...
 
 // end::DE[]
 

@@ -5,7 +5,7 @@
 
 === Begriffe und Konzepte
 Metriken, Messungen, Mathematische Modelle, Umsetzungsprüfung, Ist-Architektur, Soll-Architektur,
-Pain Points, Werkzeuge, Rekonstruktion.
+Pain Points, Werkzeuge.
 
 // end::DE[]
 

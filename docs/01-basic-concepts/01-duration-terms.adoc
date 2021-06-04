@@ -11,7 +11,7 @@ Softwareachitektur, Architekturbewertung, übergreifende Konzepte/Aspekte, Archi
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 90 min | Practice time: 30 min
 |===
 
 === Terms and Principles

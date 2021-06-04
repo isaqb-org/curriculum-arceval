@@ -6,7 +6,7 @@
 | Inhalt | Empfohlene Mindestdauer (min)
 | 1. Grundbegriffe von Architekturbewertung |	120
 | 2. Anforderungen in der Architekturbewertung | 150
-| 3. Bewertungsworkshop	| 240
+| 3. Bewertungsmethoden	| 240
 | 4. Nacharbeit und Ergebnisverwertung	| 90
 | 5. Bewertung bestehender System(-teil)e | 150
 | 6. Beispiele für die Bewertung von Software-Architekturen | 90
