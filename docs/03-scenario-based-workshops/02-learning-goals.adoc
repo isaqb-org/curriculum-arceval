@@ -53,6 +53,30 @@ Stärken und Schwächen der Methoden benennen und die Methoden bedarfsgerecht ei
 * Iterative und agile Entwicklung mit Bewertungsmethoden unterstützen
 * Zusammenspiel mit der Umsetzung verstehen und erklären.
 
+[[LZ-3-6]]
+==== LZ 3-6: Ergebnistypen von Bewertungen
+
+Die direkten Ergebnisse von Bewertungen erarbeiten, dokumentieren und erklären:
+* Risiken
+* Nicht-Risiken
+* Kompromisse
+* Sensitive Punkte
+* Allgemeine ToDos
+
+Abgeleitete und verdichtete Ergebnistypen benennen und herstellen können:
+* Risikoclsuter und Risikogruppen
+* Stärken und Schwächen einer Architektur
+* Lücken zu den zentralen Qualitätszielen 
+* Empfehlungen und deren Einsortierung in Lücken und Potentiale
+
+[[LZ-3-7]]
+==== LZ 3-7: Ergebnisformen und deren Herstellung
+
+Kommunikationsmittel für die Vermittlung von Ergebnissen kennen und nutzen:
+* Reports gliedern und wichtige Teile benennen
+* Ergebnispräsentationen strukturieren
+* Iterative Prozesse mit Ergebnissen befeuern - Risiken aktiv angehen, offene Entscheidungen planen, Unsicherheiten ausräumen, ...
+
 // end::DE[]
 
 // tag::EN[]

@@ -1,5 +1,7 @@
 === {learning-goals}
 
+//TODO: weg von REqs 4 ATAM hinzu Basis/Grundlegende Inputs auch für andere Verfahren
+
 // tag::DE[]
 [[LZ-2-1]]
 ==== LZ 2-1: Qualitative Anforderungen untersuchen und behandeln

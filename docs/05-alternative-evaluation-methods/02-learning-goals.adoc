@@ -1,0 +1,31 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-6-1]]
+==== LZ 5-1: Entscheidungsbasierte Bewertung
+
+Entscheidungsbasierte Bewertung für bestehende Systeme:
+
+* Unterschiede zur Bewertung von Konzepten und Ideen
+* Unterschiede zur Umsetzungsüberprüfung mit Metriken und Messungen erklären
+
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: TBD
+tbd.
+
+[[LG-5-2]]
+==== LG 5-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]
