@@ -1,44 +1,44 @@
 === {learning-goals}
 
-
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Entscheidungsbasierte Bewertung
+==== LZ 5-1: Bewertung bestehender System(teil)e
 
-Entscheidungsbasierte Bewertung für bestehende Systeme:
-
-* Unterschiede zur Bewertung von Konzepten und Ideen
-* Unterschiede zur Umsetzungsüberprüfung mit Metriken und Messungen erklären
+* Unterschiede zur Bewertung von Konzepten und Ideen benennen
+* Aktuelle Werkzeuge zur Unterstützung kennen und nach Einsatzzweck kategorisieren.
+* Operationalisierung entsprechender Überprüfungen im Prozess integrieren (beispielsweise als Teil des Check-In-Vorgangs, im Build etc.).
 
 [[LZ-5-2]]
-==== LZ 5-2: Umsetzungsprüfung
+==== LZ 5-2: Umsetzungsprüfung 
 
-Umsetzungsprüfung auf Basis von Messungen und Bewertungstools:
-* Bewertung von Software-Architekturen im Hinblick auf ihre Umsetzung durchführen, d. h. die Frage beantworten, in wie weit eine Architektur auch im Code umgesetzt wurde.
-* Tools für den Abgleich von Umsetzung und Architekturidee benennen (Sonargraph, Structure101, ArchUnit etc.)
-* Operationalisierung entsprechender Überprüfungen im Prozess integrieren (beispielsweise als Teil des Check-In-Vorgangs, im Build etc.).
-* Verletzungen der Architekturvorgaben in der Implementierung behandeln
+#TODO: meh
+Source Codes gegen strukturelle Architekturansätze prüfen:
+
+  * Bewertung von Software-Architekturen im Hinblick auf ihre Umsetzung durchführen, d. h. die Frage beantworten, in wie weit eine Architektur auch im Code umgesetzt wurde.
+  * Tools für den Abgleich von Umsetzung und Architekturidee benennen (z.B. Sonargraph, Structure101, ArchUnit)
+  * Eignung der Tools um Ist-Architekuren Bottom-Up zu erheben und Abgleiche mit Soll-Architekturen durchzuführen
 
 [[LZ-5-3]]
 ==== LZ 5-3: Statische Prüfung
 
-Konkrete Metriken für die Überprüfung von Design Best-Practices erklären. Etwa Abstraktion, Instabilität, Distanz, Fan-In/Fan-Out, zyklomatische Komplexität.
 
+Konkrete Metriken für die Überprüfung von Design Best-Practices erklären. (z.B. Distanz, Fan-In/Fan-Out, zyklomatische Komplexität)
+
+#TODO: wirklich planen?
 Einsatz von Metriken planen (aus Zielsicht, nicht aus Toolsicht)
 
-Bewertung von Software-Architekturen im Hinblick auf allgemeine Best-Practices oder Prinzipien durchführen:
-* Bekannte Fehler im Quellcode und Fehlercluster analysieren
-* Unterstützende Tools und Metriken anwenden
-* Operationalisierung entsprechender Überprüfungen im Prozess integrieren (beispielsweise als Teil des Check-In-Vorgangs, im Build etc.).
+Messungen interpretieren (Default-Einstellungen hinterfragen, auf Trends achten) 
+
+Verstehen, dass Messungen geeignete Ausgangspunkte für tiefere Analysen sind
 
 [[LZ-5-4]]
 ==== LZ 5-4: Dynamische Prüfung
 
 Möglichkeiten der dynamischen Software-Prüfung benennen und für dynamische Prüfung geeignete Qualitätsmerkmale kennen.
 
-Ansätze der statischen Analyse in stark verteilten Umfeldern (Microservices) mit dynmaischen Mitteln nachstellen.
+Ansätze der statischen Analyse in stark verteilten Umfeldern (Microservices) mit dynamischen Mitteln nachstellen.
 
-Einflächtung dieser Techniken in größere Bewertungsvorhaben erklären.
+Einflechtung dieser Techniken in größere Bewertungsvorhaben erklären.
 
 // end::DE[]
 

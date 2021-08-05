@@ -7,75 +7,53 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 [[LZ-3-1]]
 ==== LZ 3-1: ATAM – Architecture Tradeoff Analysis Method
 
-* Bewertungsworkshops nach ATAM geeignet vorbereiten
+* Bewertungsworkshops nach ATAM geeignet vorbereiten können
 * Die Phasen von ATAM erklären
-* Die Schritte der Kernphasen von ATAM (Phase 1 und 2) erklären und auf die Bedürfnisse des eigenen Projekts anpassen.
+* Die Schritte der Kernphasen von ATAM (Phase 1 und 2) erklären und auf die Bedürfnisse des eigenen Projekts anpassen
+* Beteiligte der einzelnen Phasen benennen
+* Inputs für ATAM Workshops kennen und den Schritten zuordnen
 
 [[LZ-3-2]]
-==== LZ 3-2: Input für ATAM Workshops
-
-* Anforderungen an Architekturdokumentation für Bewertungsworkshops verstehen und benennen:
-* Detaillierte Szenarien
-* Gesammelte Rahmenbedingungen
-* Nachvollziehbar dokumentierte Entscheidungen
-* Sichten zur Unterstützung des Überblicks bzw. Detaildiskussionen
-* Source Code Teile
-* Messergebnisse und erhobene Metriken
-* Anforderungen an die Darreichungsform und Toolunterstützung
-* Szenarien als architekturrelevant erkennen und entsprechende Kriterien benennen (Querschnittlichkeit der nötigen Entscheidungen, schwere Abbildbarkeit in Bestehendes, teure Umsetzung, etc.)
-
-[[LZ-3-3]]
-==== LZ 3-3: Workshops durchführen
+==== LZ 3-2: Workshops durchführen
 
 Qualitative Bewertung von Software-Architekturen nach ATAM durchführen:
-* Vorgehen bei qualitativer Bewertung erklären und durchführen
-* Erstellung von Szenarien und Qualitätsbäumen erklären und durchführen
-* Analyse von Software-Architekturen hinsichtlich Szenarien und Identifikation entsprechender Risiken selbständig durchführen.
+  
+  * Vorgehen bei qualitativer Bewertung erklären und durchführen
+  * Erstellung von Szenarien und Qualitätsbäumen erklären und durchführen
+  * Ansätze hinsichtlich Szenarien analysieren
+  * Fragetechniken anwenden können, um die Analyse in Breite oder Tiefe zu lenken und den Fokus zu behalten
+  * Risiken, Nicht-Risiken, Sensible Punkte und Kompromisse identifizieren und verständlich festhalten können
+  * Bedeutung von Moderation begründen
+
+[[LZ-3-3]]
+==== LZ 3-3: Umgang mit Bewertungsergebnissen
+
+Direkte und verdichtete Ergebnistypen ableiten:
+
+  * Risikoclsuter und Risikogruppen
+  * Stärken und Schwächen einer Architektur
+  * Lücken zu den zentralen Qualitätszielen 
+
+Kommunikationsmittel für die Vermittlung von Ergebnissen beschreiben:
+
+  * Gegliederte Reports und deren wichtige Teile
+  * Strukturierte Ergebnispräsentationen
+  * Empfehlungen und deren Einsortierung in Lücken und Potentiale
+
+#TODO: OK so?
+Einflüsse der Ergebnisse auf iterative Prozesse verstehen: 
+  
+  * Risiken aktiv angehen
+  * offene Entscheidungen planen
+  * Unsicherheiten ausräumen
 
 [[LZ-3-4]]
-==== LZ 3-4: Alternative Bewertungsmethoden
+==== LZ 3-4: Bewertungsprozess an den eigenen Kontext anpassen
 
-Alternative qualitative Bewertungsmethoden abseits von ATAM benennen und grob erklären:
-* DCAR: Decision Centric Architecture Review
-* PBAR: Pattern Based Architecture Review
-* TARA: Tiny Architecture Review Approach
-* CBAM: Cost-Benefit Analysis Method
-
-Stärken und Schwächen der Methoden benennen und die Methoden bedarfsgerecht einsetzen 
-
-[[LZ-3-5]]
-==== LZ 3-5: Bewertung und Vorgehen
-
-* Bewertungen nach Größe skalieren und Methoden bedarfsgerecht auswählen und anpassen
-* Quantitative Techniken können zur Unterstützung von szenariobasierten Bewertungen eingesetzt werden.
-* Bewertungsmethoden in gängige Vorgehensmodelle einbetten
-* Architekturbewertung ist als Teil des Entwicklungsprozesses (wiederkehrend) effektiver als ein Qualitätscheck vorhandener Software (nach erfolgter Implementierung).
-* Iterative und agile Entwicklung mit Bewertungsmethoden unterstützen
-* Zusammenspiel mit der Umsetzung verstehen und erklären.
-
-[[LZ-3-6]]
-==== LZ 3-6: Ergebnistypen von Bewertungen
-
-Die direkten Ergebnisse von Bewertungen erarbeiten, dokumentieren und erklären:
-* Risiken
-* Nicht-Risiken
-* Kompromisse
-* Sensitive Punkte
-* Allgemeine ToDos
-
-Abgeleitete und verdichtete Ergebnistypen benennen und herstellen können:
-* Risikoclsuter und Risikogruppen
-* Stärken und Schwächen einer Architektur
-* Lücken zu den zentralen Qualitätszielen 
-* Empfehlungen und deren Einsortierung in Lücken und Potentiale
-
-[[LZ-3-7]]
-==== LZ 3-7: Ergebnisformen und deren Herstellung
-
-Kommunikationsmittel für die Vermittlung von Ergebnissen kennen und nutzen:
-* Reports gliedern und wichtige Teile benennen
-* Ergebnispräsentationen strukturieren
-* Iterative Prozesse mit Ergebnissen befeuern - Risiken aktiv angehen, offene Entscheidungen planen, Unsicherheiten ausräumen, ...
+#TODO: wirklich können?
+* Bewertungen nach Größe skalieren und Methoden bedarfsgerecht auswählen und anpassen können
+* Quantitative Techniken zur Unterstützung von szenariobasierten Bewertungen einsetzen können
+* Methoden zur Verschlankung des Verfahrens anwenden können (z.B. light weight ATAM)
 
 // end::DE[]
 

@@ -1,52 +1,90 @@
 === {learning-goals}
 
-//TODO: weg von REqs 4 ATAM hinzu Basis/Grundlegende Inputs auch für andere Verfahren
-
 // tag::DE[]
 [[LZ-2-1]]
 ==== LZ 2-1: Qualitative Anforderungen untersuchen und behandeln
 
-Bedeutung von qualitativen Anforderungen für die Architektur erklären: Konkrete und detaillierte Benennung der treibenden Qualitätsanforderungen ist die Voraussetzung für gute Architekturarbeit und Architekturbewertung
+Die Bedeutung von qualitativen Anforderungen für die Architektur erklären. 
 
-Begriff der Qualität (angelehnt an DIN/ISO 9126 bzw. DIN/ISO 25010) und von Qualitätsmerkmalen erklären.
+#TODO: Duplikat zu 1-3. löschen/verschieben? Verstehen dass konkrete und detaillierte Benennung der treibenden Qualitätsanforderungen die Voraussetzung für gute Architekturarbeit und Architekturbewertung ist
 
-Qualitätsmodelle (wie etwa DIN/ISO 25010) erklären.
+Die Begriffe "Qualität" und "Qualitätsmerkmal" präzisieren.
 
-Eigenschaften wichtiger Qualitätsmerkmale verstehen:
+Verschiedene Qualitätsmodelle (z.B. DIN/ISO 25010) interpretieren.
 
-    * Grundlegende Herangehensweise zur Behandlung erklären
-    * Typische Taktiken zur Erreichung erklären und anwenden
-    * Zusammenhang und Wechselwirkungen von Qualitätsmerkmalen erläutern.
+Eigenschaften wichtiger Qualitätsmerkmale erklären:
 
+  * Grundlegende Herangehensweise zur Behandlung
+  * Zusammenhang und Wechselwirkungen von Qualitätsmerkmalen.
 
 [[LZ-2-2]]
 ==== LZ 2-2: Qualitätsanforderungen detaillieren und beschreiben
 
-Arten von Szenarien erklären und abgrenzen:
+Arten von Szenarien voneinander unterscheiden:
+  
+  * Use-Case-Szenarien
+  * Grenzszenarien
+  * Stressszenarien
 
-    * Use-Case-Szenarien
-    * Grenzszenarien
-    * Stressszenarien
+Erhebungstechniken für Szenarien anwenden:
 
-Erhebungstechniken für Szenarien erklären und anwenden:
+  * Brainstorming / Quality Storming
+  * Interview
+  * Ableitung aus NFR-Spezifikation
 
-    * Brainstorming / Quality Storming
-    * Interview
-    * Ableitung aus NFR-Spezifikation
+Mögliche Bestandteile von Szenarien zur Verfeinerung und Konkretisierung erklären.
 
-Detaillierte Beschreibung von Szenarien: Mögliche Teile zur Verfeinerung und Konkretisierung erklären.
+Unterbringung von Szenarien in Architekturdokumentation beschreiben.
 
-Unterbringung von Szenarien in Architekturdokumentation erklären.
+Arbeiten mit Qualitätsbäume:
 
-Nutzen und Erstellung eines Qualitätsbaums erklären, eigene Qualitätsbäume erstellen
-Qualitätsbäume zur Priorisierung von Qualitätsanforderungen nutzen.
+  * Deren Nutzen erklären
+  * Eigene Qualitätsbäume erstellen
+  * Zur Priorisierung von Qualitätsanforderungen verwenden
 
 [[LZ-2-3]]
-==== LZ 2-3: Eigenschaften qualitativer Anforderungen
+==== LZ 2-3: Architektursichten
 
-* Ohne qualitative Anforderungen ist eine Architektur nicht sinnvoll bewertbar
-* Qualitätsanforderungen widersprechen sich teilweise und werden typischer Weise von unterschiedlichen Stakeholdern unterschiedlich priorisiert
-* Widersprüchliche Qualitätsanforderungen erzwingen Kompromisse in der Architektur. Diese Kompromisse transparent zu machen und angemessen zu entscheiden ist eine zentrale Aufgabe von Architekturbewertungen.
+#TODO: können?
+
+Architektursichten bedarfsgerecht für die Bewertung auswählen können:
+
+  * Kontextsicht
+  * Bausteinsicht
+  * Laufzeitsicht
+  * Verteilungssicht
+
+#TODO: können?
+Qualität der Sichten bewerten können.
+
+Bedeutung der Sichten im Verlauf der verschiedenen Bewertungsmethoden erklären.
+
+[[LZ-2-4]]
+==== LZ 2-4: Architekturansätze und -entscheidungen 
+
+Unterschiedliche Wirkungen der Begriffe Ansatz und Entscheidung erläutern.
+
+Geeignete Formen der Entscheidungsdokumentation für die Bewertung auswählen:
+
+  * ADRs
+  * Stichpunkte
+  * Konzepte
+  * Source-Code-Teile
+  * Messergebnisse und erhobene Metriken
+
+[[LZ-2-5]]
+==== LZ 2-5: Randbedingungen
+
+Typische KAtegorien von Rahmenbedingungen kennen:
+
+  * Technische Randbedingungen
+  * Organisatorische Randbedingungen
+  * Konventionen
+
+Unterschiede zwischen Randbedingungen und Qualitätsanforderungen erklären:
+
+  * Randbedingungen werden erfüllt oder nicht (binär)
+  * Qualitätsanforderungen können teilweise oder auch übererfüllt werden
 
 // end::DE[]
 

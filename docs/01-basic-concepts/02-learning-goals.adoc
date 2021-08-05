@@ -4,28 +4,28 @@
 [[LZ-1-1]]
 ==== LZ 1-1: Nutzen und Ziele von Software-Architektur
 
-Eigenschaften von Architekturarbeit benennen:
-
-* Architekturarbeit ist grundlegend, hat im Projekt breite Auswirkungen und entsprechende Entscheidungen sind schwer zurückzunehmen
-* Architekturarbeit sollte iterativ erfolgen und Feedbackschleifen vorsehen
-* Fokus von Software-Architektur liegt auf Qualitätsmerkmalen wie Langlebigkeit, Wartbarkeit, Änderbarkeit als Differenzierung gegenüber reiner Funktionalität
-* Weiterentwicklung Software-Architekturen sollte Gruppenprozesse beinhalten 
+* Begründen, warum Architekturarbeit grundlegend ist, im Projekt breite Auswirkungen hat und entsprechende Entscheidungen schwer zurückzunehmen sind
+* Begründen, warum Architekturarbeit iterativ erfolgen sollte und Feedbackschleifen benötigt
+* Begründen, dass der Fokus von Software-Architektur auf Qualitätsmerkmalen liegt als Differenzierung gegenüber reiner Funktionalität
+* Verstehen die Notwendigkeit von Gruppenprozessen für die Weiterentwicklung von Software-Architekturen
 
 [[LZ-1-2]]
 ==== LZ 1-2: Nutzen und Ziele von Architekturbewertung
 
-Nutzen von Architekturbewertung benennen und erklären:
+Nutzen von Architekturbewertung erklären:
 
 * (Frühe) Erkennung von zentralen Risiken und Problemen bezüglich der geforderten Qualitätsmerkmale
 * Methodische Absicherung von Architekturentscheidungen – Sicherung der langfristigen Nachvollziehbarkeit der Architektur
 * Qualifiziertes Feedback zu Architekturentscheidungen
-* Generell: Förderung von Kommunikation und Transparenz
+* Generelle Förderung von Kommunikation und Transparenz
 ** Verlorenes Vertrauen von Stakeholdern kann rückgewonnen werden
 ** Widersprüche in Anforderungen werden aufgedeckt
 ** Einordnung und Gewichtung von technischen und konzeptionellen Stärken und Schwächen
 * Förderung methodischer Architekturentwicklung und sauberer Architekturdokumentation
 
-Anlässe zur Architekturbewertung kennen:
+Anlässe zur Architekturbewertung erkennen:
+#TODO: Alternative: benennen
+
 * methodische Gründe (als üblicher Teil des Architekturprozesses, ...)
 * organisatorische Gründe (Strategieentscheidungen, Investitionen, ...)
 * technische Gründe (Technologiewechsel, Ablösungen, ...)
@@ -34,20 +34,20 @@ Anlässe zur Architekturbewertung kennen:
 [[LZ-1-3]]
 ==== LZ 1-3: Voraussetzungen für Architekturbewertung
 
-Organisatorische, technische und weiche Voraussetzungen benennen und erklären:
+Organisatorische, technische und weiche Voraussetzungen erläutern:
 
-* Notwendige Artefakte der Software-Architektur benennen und in konkreten Projektsituationen den notwendigen Detaillierungsgrad dieser Artefakte erkennen
+* Notwendige Artefakte der Software-Architektur und deren angemessenen Detaillierungsgrad in konkreten Projektsituationen 
 * Rahmenbedingungen
-* Architekturanforderungen: konkrete qualitative Anforderungen
+* Konkrete Qualitätsanforderungen
 * Dokumentierte Architekturentscheidungen
 * Architekturüberblick
 * Kooperationsbereitschaft der Stakeholder
-* Bereitschaft der Organisation, Budget & Zeit für den Bewertungsprozess bereitzustellen
+* Bereitschaft der Organisation, Budget und Zeit für den Bewertungsprozess bereitzustellen
 
 [[LZ-1-4]]
 ==== LZ 1-4: Architekturbewertungsmethoden
 
-Verschiedenen Methoden und Ansätze zur Architekturbewertung voneinander unterscheiden:
+Verschiedene Methoden und Ansätze zur Architekturbewertung voneinander unterscheiden:
 
 * Szenarienbasierte Bewertungsmethoden (ATAM, Lightweight ATAM, CBAM, ...)
 * Entscheidungsbasierte Verfahren (DCAR, PBAR, ...)
