@@ -11,6 +11,15 @@ Entscheidungsbasierte Bewertung für bestehende Systeme:
 * Unterschiede zur Umsetzungsüberprüfung mit Metriken und Messungen erklären
 
 
+Alternative qualitative Bewertungsmethoden abseits von ATAM benennen und grob erklären:
+* DCAR: Decision Centric Architecture Review
+* PBAR: Pattern Based Architecture Review
+* TARA: Tiny Architecture Review Approach
+* CBAM: Cost-Benefit Analysis Method
+
+Stärken und Schwächen der Methoden benennen und die Methoden bedarfsgerecht einsetzen 
+* Eignung im Rahmen iterativer Vorgehensweisen
+
 // end::DE[]
 
 // tag::EN[]
