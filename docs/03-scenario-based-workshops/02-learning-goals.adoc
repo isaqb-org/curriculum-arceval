@@ -40,7 +40,6 @@ Kommunikationsmittel für die Vermittlung von Ergebnissen beschreiben:
   * Strukturierte Ergebnispräsentationen
   * Empfehlungen und deren Einsortierung in Lücken und Potentiale
 
-#TODO: OK so?
 Einflüsse der Ergebnisse auf iterative Prozesse verstehen: 
   
   * Risiken aktiv angehen
@@ -50,10 +49,8 @@ Einflüsse der Ergebnisse auf iterative Prozesse verstehen:
 [[LZ-3-4]]
 ==== LZ 3-4: Bewertungsprozess an den eigenen Kontext anpassen
 
-#TODO: wirklich können?
-* Bewertungen nach Größe skalieren und Methoden bedarfsgerecht auswählen und anpassen können
-* Quantitative Techniken zur Unterstützung von szenariobasierten Bewertungen einsetzen können
-* Methoden zur Verschlankung des Verfahrens anwenden können (z.B. light weight ATAM)
+* Den unterstützenden Einsatz quantitativer Techniken verstehen
+* Methoden zur Verschlankung des Verfahrens kennen (z.B. light weight ATAM)
 
 // end::DE[]
 

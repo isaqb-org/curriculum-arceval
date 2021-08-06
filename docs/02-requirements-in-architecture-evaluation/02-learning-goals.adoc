@@ -6,8 +6,6 @@
 
 Die Bedeutung von qualitativen Anforderungen für die Architektur erklären. 
 
-#TODO: Duplikat zu 1-3. löschen/verschieben? Verstehen dass konkrete und detaillierte Benennung der treibenden Qualitätsanforderungen die Voraussetzung für gute Architekturarbeit und Architekturbewertung ist
-
 Die Begriffe "Qualität" und "Qualitätsmerkmal" präzisieren.
 
 Verschiedene Qualitätsmodelle (z.B. DIN/ISO 25010) interpretieren.
@@ -45,8 +43,6 @@ Arbeiten mit Qualitätsbäume:
 [[LZ-2-3]]
 ==== LZ 2-3: Architektursichten
 
-#TODO: können?
-
 Architektursichten bedarfsgerecht für die Bewertung auswählen können:
 
   * Kontextsicht
@@ -54,10 +50,9 @@ Architektursichten bedarfsgerecht für die Bewertung auswählen können:
   * Laufzeitsicht
   * Verteilungssicht
 
-#TODO: können?
-Qualität der Sichten bewerten können.
-
 Bedeutung der Sichten im Verlauf der verschiedenen Bewertungsmethoden erklären.
+
+Verwendbarkeit von bestehenden Sichten für die Bewertung einschätzen können.
 
 [[LZ-2-4]]
 ==== LZ 2-4: Architekturansätze und -entscheidungen 
@@ -75,7 +70,7 @@ Geeignete Formen der Entscheidungsdokumentation für die Bewertung auswählen:
 [[LZ-2-5]]
 ==== LZ 2-5: Randbedingungen
 
-Typische KAtegorien von Rahmenbedingungen kennen:
+Typische Kategorien von Rahmenbedingungen kennen:
 
   * Technische Randbedingungen
   * Organisatorische Randbedingungen

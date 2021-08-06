@@ -1,38 +1,34 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-5-1]]
-==== LZ 5-1: Bewertung bestehender System(teil)e
+[[LZ-4-1]]
+==== LZ 4-1: Bewertung bestehender System(teil)e
 
 * Unterschiede zur Bewertung von Konzepten und Ideen benennen
 * Aktuelle Werkzeuge zur Unterstützung kennen und nach Einsatzzweck kategorisieren.
 * Operationalisierung entsprechender Überprüfungen im Prozess integrieren (beispielsweise als Teil des Check-In-Vorgangs, im Build etc.).
 
-[[LZ-5-2]]
-==== LZ 5-2: Umsetzungsprüfung 
-
-#TODO: meh
-Source Codes gegen strukturelle Architekturansätze prüfen:
+[[LZ-4-2]]
+==== LZ 4-2: Umsetzungsprüfung der Architekturansätze im Source Code verstehen
 
   * Bewertung von Software-Architekturen im Hinblick auf ihre Umsetzung durchführen, d. h. die Frage beantworten, in wie weit eine Architektur auch im Code umgesetzt wurde.
   * Tools für den Abgleich von Umsetzung und Architekturidee benennen (z.B. Sonargraph, Structure101, ArchUnit)
-  * Eignung der Tools um Ist-Architekuren Bottom-Up zu erheben und Abgleiche mit Soll-Architekturen durchzuführen
+  * Eignung der Tools um Ist-Architekuren Bottom-Up zu erheben und Abgleiche mit Soll-Architekturen durchzuführen verstehen
 
-[[LZ-5-3]]
-==== LZ 5-3: Statische Prüfung
+[[LZ-4-3]]
+==== LZ 4-3: Statische Prüfung
 
 
 Konkrete Metriken für die Überprüfung von Design Best-Practices erklären. (z.B. Distanz, Fan-In/Fan-Out, zyklomatische Komplexität)
 
-#TODO: wirklich planen?
 Einsatz von Metriken planen (aus Zielsicht, nicht aus Toolsicht)
 
 Messungen interpretieren (Default-Einstellungen hinterfragen, auf Trends achten) 
 
 Verstehen, dass Messungen geeignete Ausgangspunkte für tiefere Analysen sind
 
-[[LZ-5-4]]
-==== LZ 5-4: Dynamische Prüfung
+[[LZ-4-4]]
+==== LZ 4-4: Dynamische Prüfung
 
 Möglichkeiten der dynamischen Software-Prüfung benennen und für dynamische Prüfung geeignete Qualitätsmerkmale kennen.
 

@@ -23,8 +23,7 @@ Nutzen von Architekturbewertung erklären:
 ** Einordnung und Gewichtung von technischen und konzeptionellen Stärken und Schwächen
 * Förderung methodischer Architekturentwicklung und sauberer Architekturdokumentation
 
-Anlässe zur Architekturbewertung erkennen:
-#TODO: Alternative: benennen
+Anlässe zur Architekturbewertung benennen:
 
 * methodische Gründe (als üblicher Teil des Architekturprozesses, ...)
 * organisatorische Gründe (Strategieentscheidungen, Investitionen, ...)
