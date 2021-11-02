@@ -5,7 +5,7 @@
 In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qualitativen Bewertung von Software-Architekturen kennen.
 
 [[LZ-3-1]]
-==== LZ 3-1: ATAM – Architecture Tradeoff Analysis Method
+==== LZ 3-1: ATAM (Architecture Tradeoff Analysis Method) verstehen
 
 * Bewertungsworkshops nach ATAM geeignet vorbereiten können
 * Die Phasen von ATAM erklären
@@ -14,40 +14,38 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 * Inputs für ATAM Workshops kennen und den Schritten zuordnen
 
 [[LZ-3-2]]
-==== LZ 3-2: Workshops durchführen
-
-Qualitative Bewertung von Software-Architekturen nach ATAM durchführen:
+==== LZ 3-2: Qualitative Bewertung von Software-Architekturen nach ATAM durchführen
   
-  * Vorgehen bei qualitativer Bewertung erklären und durchführen
-  * Erstellung von Szenarien und Qualitätsbäumen erklären und durchführen
-  * Ansätze hinsichtlich Szenarien analysieren
-  * Fragetechniken anwenden können, um die Analyse in Breite oder Tiefe zu lenken und den Fokus zu behalten
-  * Risiken, Nicht-Risiken, Sensible Punkte und Kompromisse identifizieren und verständlich festhalten können
-  * Bedeutung von Moderation begründen
+* Vorgehen bei qualitativer Bewertung erklären und durchführen
+* Erstellung von Szenarien und Qualitätsbäumen erklären und durchführen
+* Ansätze hinsichtlich Szenarien analysieren
+* Fragetechniken anwenden können, um die Analyse in Breite oder Tiefe zu lenken und den Fokus zu behalten
+* Risiken, Nicht-Risiken, Sensible Punkte und Kompromisse identifizieren und verständlich festhalten können
+* Bedeutung von Moderation begründen
 
 [[LZ-3-3]]
-==== LZ 3-3: Umgang mit Bewertungsergebnissen
+==== LZ 3-3: Direkte und verdichtete Ergebnistypen ableiten
 
-Direkte und verdichtete Ergebnistypen ableiten:
-
-  * Risikoclsuter und Risikogruppen
-  * Stärken und Schwächen einer Architektur
-  * Lücken zu den zentralen Qualitätszielen 
-
-Kommunikationsmittel für die Vermittlung von Ergebnissen beschreiben:
-
-  * Gegliederte Reports und deren wichtige Teile
-  * Strukturierte Ergebnispräsentationen
-  * Empfehlungen und deren Einsortierung in Lücken und Potentiale
-
-Einflüsse der Ergebnisse auf iterative Prozesse verstehen: 
-  
-  * Risiken aktiv angehen
-  * offene Entscheidungen planen
-  * Unsicherheiten ausräumen
+* Risiko-Cluster und Risiko-Gruppen
+* Stärken und Schwächen einer Architektur
+* Lücken zu den zentralen Qualitätszielen 
 
 [[LZ-3-4]]
-==== LZ 3-4: Bewertungsprozess an den eigenen Kontext anpassen
+==== LZ 3-4: Kommunikationsmittel für die Vermittlung von Ergebnissen beschreiben
+
+* Gegliederte Reports und deren wichtige Teile
+* Strukturierte Ergebnispräsentationen
+* Empfehlungen und deren Einsortierung in Lücken und Potentiale
+
+[[LZ-3-5]]
+==== LZ 3-5: Einflüsse der Bewertungs-Ergebnisse auf iterative Prozesse verstehen
+  
+* Risiken aktiv angehen
+* offene Entscheidungen planen
+* Unsicherheiten ausräumen
+
+[[LZ-3-6]]
+==== LZ 3-6: Bewertungsprozess an den eigenen Kontext anpassen
 
 * Den unterstützenden Einsatz quantitativer Techniken verstehen
 * Methoden zur Verschlankung des Verfahrens kennen (z.B. light weight ATAM)

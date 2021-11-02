@@ -2,7 +2,7 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Qualitative Anforderungen untersuchen und behandeln
+==== LZ 2-1: Den Zusammenhang von Software-Qualität und Software-Architektur verstehen
 
 Die Bedeutung von qualitativen Anforderungen für die Architektur erklären. 
 
@@ -16,7 +16,7 @@ Eigenschaften wichtiger Qualitätsmerkmale erklären:
   * Zusammenhang und Wechselwirkungen von Qualitätsmerkmalen.
 
 [[LZ-2-2]]
-==== LZ 2-2: Qualitätsanforderungen detaillieren und beschreiben
+==== LZ 2-2: Qualitätsszenarien erheben
 
 Arten von Szenarien voneinander unterscheiden:
   
@@ -32,6 +32,9 @@ Erhebungstechniken für Szenarien anwenden:
 
 Mögliche Bestandteile von Szenarien zur Verfeinerung und Konkretisierung erklären.
 
+[[LZ-2-3]]
+==== LZ 2-3: Qualitätsszenarien dokumentieren
+
 Unterbringung von Szenarien in Architekturdokumentation beschreiben.
 
 Arbeiten mit Qualitätsbäume:
@@ -40,11 +43,11 @@ Arbeiten mit Qualitätsbäume:
   * Eigene Qualitätsbäume erstellen
   * Zur Priorisierung von Qualitätsanforderungen verwenden
 
-[[LZ-2-3]]
-==== LZ 2-3: Architektursichten
+[[LZ-2-4]]
+==== LZ 2-4: Architektursichten bedarfsgerecht für die Bewertung auswählen können
 
-Architektursichten bedarfsgerecht für die Bewertung auswählen können:
-
+bekannte Sichten auf Software-Architekturen verstehen:
+  
   * Kontextsicht
   * Bausteinsicht
   * Laufzeitsicht
@@ -54,21 +57,20 @@ Bedeutung der Sichten im Verlauf der verschiedenen Bewertungsmethoden erklären.
 
 Verwendbarkeit von bestehenden Sichten für die Bewertung einschätzen können.
 
-[[LZ-2-4]]
-==== LZ 2-4: Architekturansätze und -entscheidungen 
-
-Unterschiedliche Wirkungen der Begriffe Ansatz und Entscheidung erläutern.
-
-Geeignete Formen der Entscheidungsdokumentation für die Bewertung auswählen:
-
-  * ADRs
-  * Stichpunkte
-  * Konzepte
-  * Source-Code-Teile
-  * Messergebnisse und erhobene Metriken
-
 [[LZ-2-5]]
-==== LZ 2-5: Randbedingungen
+==== LZ 2-5: Unterschiedliche Wirkungen der Begriffe Ansatz und Entscheidung erläutern
+
+[[LZ-2-6]]
+==== LZ 2-6: Geeignete Formen der Entscheidungsdokumentation für die Bewertung auswählen
+
+* ADRs
+* Stichpunkte
+* Konzepte
+* Source-Code-Teile
+* Messergebnisse und erhobene Metriken
+
+[[LZ-2-7]]
+==== LZ 2-7: Randbedingungen verstehen
 
 Typische Kategorien von Rahmenbedingungen kennen:
 
