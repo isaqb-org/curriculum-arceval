@@ -6,7 +6,7 @@
 
 * Unterschiede zur Bewertung von Konzepten und Ideen benennen
 * Aktuelle Werkzeuge zur Unterstützung kennen und nach Einsatzzweck kategorisieren.
-* Operationalisierung entsprechender Überprüfungen im Prozess integrieren (beispielsweise als Teil des Check-In-Vorgangs, im Build etc.).
+* Messungen und dynamische Prüfungen im Entwicklungsprozess verankern (beispielsweise als Teil des Check-In-Vorgangs, im Build etc.).
 
 [[LZ-4-2]]
 ==== LZ 4-2: Umsetzungsprüfung der Architekturansätze im Source Code verstehen
