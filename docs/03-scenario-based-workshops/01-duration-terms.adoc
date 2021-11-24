@@ -1,11 +1,10 @@
 // tag::DE[]
 |===
-| Dauer: 45 Min. | Übungszeit: 45 Min.
+| Dauer: 90 Min. | Übungszeit: 150 Min.
 |===
 
 === Begriffe und Konzepte
-Risikocluster, Minderungsmaßnahmen, Kommunikation der Ergebnisse, Reports, Präsentationen, Stärken und Schwächen, Ampel-Scores.
-
+ATAM, Kompromisse, Risiken, Nicht-Risiken, Sensitive Punkte, Entscheidungen, Rahmenbedingungen, Phasen von ATAM, Stakeholder-Beteiligung, szenariobasierte Durchsprache, Bewertungsworkshop, Discovery Review, Zusammenspiel mit der Entwicklung,Risikocluster, Minderungsmaßnahmen, Kommunikation der Ergebnisse, Reports, Präsentationen, Stärken und Schwächen, Ampel-Scores.
 
 // end::DE[]
 
@@ -16,6 +15,7 @@ Risikocluster, Minderungsmaßnahmen, Kommunikation der Ergebnisse, Reports, Prä
 
 === Terms and Principles
 Term 1, Term 2, Term 3
+
 // end::EN[]
 
 // tag::REMARK[]

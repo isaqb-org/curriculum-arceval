@@ -2,54 +2,55 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Nutzen und Ziele von Software-Architektur
+==== LZ 1-1: Grundlagen der Softwarearchitektur verstehen
 
-Eigenschaften von Architekturarbeit benennen:
-
-* Architekturarbeit ist grundlegend, hat im Projekt breite Auswirkungen und entsprechende Entscheidungen sind schwer zurückzunehmen
-* Architekturarbeit sollte iterativ erfolgen und Feedbackschleifen vorsehen
-* Fokus von Software-Architektur liegt auf Qualitätsmerkmalen wie Langlebigkeit, Wartbarkeit, Änderbarkeit als Differenzierung gegenüber reiner Funktionalität
-* Qualitätsanforderungen (Required constraints) wie Änderbarkeit, Effizienz, Sicherheit etc. beeinflussen Software-Architekturen in der Regel mehr als funktionale Anforderungen.
-* Architekturziele sind in der Regel langfristig, Projektziele oftmals kurzfristig.
-* Software-Architekturen müssen aufgrund inhärenter Unsicherheit oftmals iterativ entwickelt werden.
+* Begründen, warum Architekturarbeit grundlegend ist, im Projekt breite Auswirkungen hat und entsprechende Entscheidungen schwer zurückzunehmen sind
+* Begründen, warum Architekturarbeit iterativ erfolgen sollte und Feedbackschleifen benötigt
+* Begründen, dass der Fokus von Softwarearchitektur auf Qualitätsmerkmalen liegt als Differenzierung gegenüber reiner Funktionalität
+* Verstehen die Notwendigkeit von Gruppenprozessen für die Weiterentwicklung von Softwarearchitekturen
 
 [[LZ-1-2]]
-==== LZ 1-2: Nutzen und Ziele von Architekturbewertung
+==== LZ 1-2: Nutzen von Architekturbewertung erklären
 
-Nutzen von Architekturbewertung benennen und erklären:
-
-* Sicherstellung der Erreichung von zentralen Architekturzielen
 * (Frühe) Erkennung von zentralen Risiken und Problemen bezüglich der geforderten Qualitätsmerkmale
 * Methodische Absicherung von Architekturentscheidungen – Sicherung der langfristigen Nachvollziehbarkeit der Architektur
 * Qualifiziertes Feedback zu Architekturentscheidungen
-* Generell: Förderung von Kommunikation und Transparenz (Projektintern und mit externen Stakeholdern)
-* Die systematisch eingeholte Rückmeldung von Stakeholdern ist essentiell.
-
-Positive Effekte von Architekturbewertungen auf das Vorgehen bei der Architekturentwicklung und die Architekturdokumentation benennen und erklären.
+* Generelle Förderung von Kommunikation und Transparenz
+** Verlorenes Vertrauen von Stakeholdern kann rückgewonnen werden
+** Widersprüche in Anforderungen werden aufgedeckt
+** Einordnung und Gewichtung von technischen und konzeptionellen Stärken und Schwächen
+* Förderung methodischer Architekturentwicklung und sauberer Architekturdokumentation
 
 [[LZ-1-3]]
-==== LZ 1-3: Voraussetzungen für Architekturbewertung
+==== LZ 1-3: Anlässe zur Architekturbewertung benennen
 
-Organisatorische Voraussetzungen benennen und erklären:
-
-* Notwendige Artefakte der Software-Architektur benennen und in konkreten Projektsituationen den notwendigen Detaillierungsgrad dieser Artefakte erkennen
-* Rahmenbedingungen
-* Architekturanforderungen: konkrete qualitative Anforderungen
-* Dokumentierte Architekturentscheidungen
-* Architekturüberblick.
+* methodische Gründe (als üblicher Teil des Architekturprozesses, ...)
+* organisatorische Gründe (Strategieentscheidungen, Investitionen, ...)
+* technische Gründe (Technologiewechsel, Ablösungen, ...)
+* Unsicherheit (mangelnder Überblick, Betriebsblindheit, ...)
 
 [[LZ-1-4]]
-==== LZ 1-4: Architekturbewertungsmethoden
+==== LZ 1-4: Voraussetzungen für Architekturbewertung erläutern
 
-Verschiedenen Methoden und Ansätze zur Architekturbewertung klassifizieren und erklären:
+* Notwendige Artefakte der Softwarearchitektur und deren angemessenen Detaillierungsgrad in konkreten Projektsituationen 
+* Rahmenbedingungen
+* Konkrete Qualitätsanforderungen
+* Dokumentierte Architekturentscheidungen
+* Architekturüberblick
+* Kooperationsbereitschaft der Stakeholder
+* Bereitschaft der Organisation, Budget und Zeit für den Bewertungsprozess bereitzustellen
+
+[[LZ-1-5]]
+==== LZ 1-5: Verschiedene Methoden und Ansätze zur Architekturbewertung voneinander unterscheiden
 
 * Szenarienbasierte Bewertungsmethoden (ATAM, Lightweight ATAM, CBAM, ...)
 * Entscheidungsbasierte Verfahren (DCAR, PBAR, ...)
 * Expertenreviews (TARA, informell, ...)
+* quantitativ, messende Techniken
+* Konformitätsanalysen (Architektur, Code)
 
-Besonderheiten von szenarienbasierter Architekturbewertung benennen, insbesondere in Bezug auf die Ziele die Architekturbewertung.
-
-Die Unterstützung durch quantitativ, messende Techniken benennen und die Zielsetzung dieser Techniken erklären.
+[[LZ-1-6]]
+==== LZ 1-6: Verstehen, dass verschiedene Methoden einander ergänzen und kombiniert werden können
 
 // end::DE[]
 

@@ -2,11 +2,11 @@
 // ====================================================
 
 // tag::DE[]
-== Nacharbeit und Ergebnisverwertung
+== Weitere Bewertungsmethoden
 // end::DE[]
 
 // tag::EN[]
-== Fourth Module, This is its Title
+== And This is Module no 5
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

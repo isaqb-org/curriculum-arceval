@@ -1,0 +1,61 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Kosten-Nutzen-Bewertungen als gezielte Maßnahme einordnen können
+
+* Die Cost-Benefit Analysis Method (CBAM) kennen
+* Die zu ATAM unterschiedliche Verwendung von Qualitätsszenarien verstehen
+* Die Anwendbarkeit und Genauigkeit von CBAM einschätzen und erklären können
+
+[[LZ-5-2]]
+==== LZ 5-2: DCAR (Decision Centric Architecture Reviews) in Grundzügen verstehen
+ 
+* Die Verwendung von ADRs (Architecture Decision Records) in DCAR kennen
+* Grundbegriffe von DCAR (Decision Force, Dependencies Relation Diagram, …) verstehen
+* Die Anwendbarkeit von DCAR in agilen und iterativen Prozessen verstehen
+* Den Unterschied zur Anwendbarkeit anderer Methoden (wie ATAM) verstehen
+
+[[LZ-5-3]]
+==== LZ 5-3: TARA (Tiny Architecture Review Approach) in Grundzügen verstehen
+  
+* Vor- und Nachteile einer Bewertung durch Experten benennen können
+* ATAM-Elemente in TARA einordnen und den Zusammenhang verstehen
+
+[[LZ-5-4]]
+==== LZ 5-4: PBAR (Pattern-based Architecture Reviews) in Grundzügen verstehen
+  
+* Anwendbarkeit von PBAR verstehen und Stärken/Schwächen von Musterbasierter Analyse benennen können
+
+[[LZ-5-5]]
+==== LZ 5-5: ARID (Active Review for Intermediate Designs) in Grundzügen verstehen
+  
+* Aktiven Review-Ansatz erklären können
+* Anwendbarkeit, Aufwand und Nutzen von ARID einordnen können 
+
+[[LZ-5-6]]
+==== LZ 5-6: Größere Bewertungsvorhaben strukturieren können
+
+* Faktoren benennen können, die zu aufwendigeren Bewertungvorhaben führen
+* Grundelemente qualitativer und quantitativer Bewertungsmethoden kombinieren können, um größere, strukturierte und zielgerichtete Bewertungen zu unterstützen.
+* Personalaufwand auf Reviewer- und Teilnehmerseite einschätzen können
+
+[[LZ-5-7]]
+==== LZ 5-7: Ideen für schnelle Reviews von Architekturen erklären können
+
+* Möglichkeiten, qualitätsorientierte Reviews zu verschlanken, verstehen
+* Risiko-Sammlungen und Brainstorming-Ansätze benennen können
+* Die Skalierung kleiner Bewertungen in fundiertere Betrachtungen verstehen und den Übergang erklären können
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

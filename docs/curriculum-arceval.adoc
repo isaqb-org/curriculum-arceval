@@ -50,13 +50,13 @@ include::01-basic-concepts/00-structure.adoc[{include_configuration}]
 include::02-requirements-in-architecture-evaluation/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-procedure-for-the-evaluation/00-structure.adoc[{include_configuration}]
+include::03-scenario-based-workshops/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-rework-and-result-utilization/00-structure.adoc[{include_configuration}]
+include::04-evaluation-of-existing-parts/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-evaluation-of-existing-parts/00-structure.adoc[{include_configuration}]
+include::05-alternative-evaluation-methods/00-structure.adoc[{include_configuration}]
 
 <<<
 include::98-examples/00-examples.adoc[{include_configuration}]

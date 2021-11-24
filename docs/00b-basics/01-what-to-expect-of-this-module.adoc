@@ -1,6 +1,5 @@
 // tag::DE[]
 
-TBD
 
 // end::DE[]
 

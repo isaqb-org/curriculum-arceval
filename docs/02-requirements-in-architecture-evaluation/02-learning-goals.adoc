@@ -2,49 +2,74 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Qualitative Anforderungen untersuchen und behandeln
+==== LZ 2-1: Den Zusammenhang von Softwarequalität und Softwarearchitektur verstehen
 
-Bedeutung von qualitativen Anforderungen für die Architektur erklären: Konkrete und detaillierte Benennung der treibenden Qualitätsanforderungen ist die Voraussetzung für gute Architekturarbeit und Architekturbewertung
-
-Begriff der Qualität (angelehnt an DIN/ISO 9126 bzw. DIN/ISO 25010) und von Qualitätsmerkmalen erklären.
-
-Qualitätsmodelle (wie etwa DIN/ISO 25010) erklären.
-
-Eigenschaften wichtiger Qualitätsmerkmale verstehen:
-
-    * Grundlegende Herangehensweise zur Behandlung erklären
-    * Typische Taktiken zur Erreichung erklären und anwenden
-    * Zusammenhang und Wechselwirkungen von Qualitätsmerkmalen erläutern.
-
+* Die Bedeutung von qualitativen Anforderungen für die Architektur erklären. 
+* Die Begriffe "Qualität" und "Qualitätsmerkmal" präzisieren.
+* Verschiedene Qualitätsmodelle (z.B. DIN/ISO 25010) interpretieren.
+* Eigenschaften wichtiger Qualitätsmerkmale erklären:
+** Grundlegende Herangehensweise zur Behandlung
+** Zusammenhang und Wechselwirkungen von Qualitätsmerkmalen.
 
 [[LZ-2-2]]
-==== LZ 2-2: Qualitätsanforderungen detaillieren und beschreiben
+==== LZ 2-2: Qualitätsszenarien erheben
 
-Arten von Szenarien erklären und abgrenzen:
+* Arten von Szenarien voneinander unterscheiden:
+** Use-Case-Szenarien
+** Grenzszenarien
+** Stressszenarien
 
-    * Use-Case-Szenarien
-    * Grenzszenarien
-    * Stressszenarien
+* Erhebungstechniken für Szenarien anwenden:
+** Brainstorming / Quality Storming
+** Interview
+** Ableitung aus NFR-Spezifikation
 
-Erhebungstechniken für Szenarien erklären und anwenden:
-
-    * Brainstorming / Quality Storming
-    * Interview
-    * Ableitung aus NFR-Spezifikation
-
-Detaillierte Beschreibung von Szenarien: Mögliche Teile zur Verfeinerung und Konkretisierung erklären.
-
-Unterbringung von Szenarien in Architekturdokumentation erklären.
-
-Nutzen und Erstellung eines Qualitätsbaums erklären, eigene Qualitätsbäume erstellen
-Qualitätsbäume zur Priorisierung von Qualitätsanforderungen nutzen.
+* Mögliche Bestandteile von Szenarien zur Verfeinerung und Konkretisierung erklären.
 
 [[LZ-2-3]]
-==== LZ 2-3: Eigenschaften qualitativer Anforderungen
+==== LZ 2-3: Qualitätsszenarien dokumentieren
 
-* Ohne qualitative Anforderungen ist eine Architektur nicht sinnvoll bewertbar
-* Qualitätsanforderungen widersprechen sich teilweise und werden typischer Weise von unterschiedlichen Stakeholdern unterschiedlich priorisiert
-* Widersprüchliche Qualitätsanforderungen erzwingen Kompromisse in der Architektur. Diese Kompromisse transparent zu machen und angemessen zu entscheiden ist eine zentrale Aufgabe von Architekturbewertungen.
+* Unterbringung von Szenarien in Architekturdokumentation beschreiben.
+* Arbeiten mit Qualitätsbäumen:
+** Deren Nutzen erklären
+** Eigene Qualitätsbäume erstellen
+** Zur Priorisierung von Qualitätsanforderungen verwenden
+
+[[LZ-2-4]]
+==== LZ 2-4: Architektursichten bedarfsgerecht für die Bewertung auswählen können
+
+* bekannte Sichten auf Softwarearchitekturen verstehen:
+** Kontextsicht
+** Bausteinsicht
+** Laufzeitsicht
+** Verteilungssicht
+
+* Bedeutung der Sichten im Verlauf der verschiedenen Bewertungsmethoden erklären.
+* Verwendbarkeit von bestehenden Sichten für die Bewertung einschätzen können.
+
+[[LZ-2-5]]
+==== LZ 2-5: Unterschiedliche Wirkungen der Begriffe Ansatz und Entscheidung erläutern
+
+[[LZ-2-6]]
+==== LZ 2-6: Geeignete Formen der Entscheidungsdokumentation für die Bewertung auswählen
+
+* ADRs
+* Stichpunkte
+* Konzepte
+* Source-Code-Teile
+* Messergebnisse und erhobene Metriken
+
+[[LZ-2-7]]
+==== LZ 2-7: Randbedingungen verstehen
+
+* Typische Kategorien von Rahmenbedingungen kennen:
+** Technische Randbedingungen
+** Organisatorische Randbedingungen
+** Konventionen
+
+* Unterschiede zwischen Randbedingungen und Qualitätsanforderungen erklären:
+** Randbedingungen werden erfüllt oder nicht (binär)
+** Qualitätsanforderungen können teilweise oder auch übererfüllt werden
 
 // end::DE[]
 

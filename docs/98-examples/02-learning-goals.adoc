@@ -2,7 +2,7 @@
 
 // tag::DE[]
 
-Vorstellung, eventuell Erarbeitung und Bewertung mindestens eines Beispiels einer Software-Architektur.
+Vorstellung, eventuell Erarbeitung und Bewertung mindestens eines Beispiels einer Softwarearchitektur.
 
 [[LZ-98-1]]
 ==== LZ 98-1: Was sollen die Teilnehmer verstehen?
