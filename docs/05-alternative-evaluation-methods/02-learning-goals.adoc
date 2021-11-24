@@ -2,7 +2,7 @@
 
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Kosten-Nutzen Bewertungen als gezielte Maßnahme einordnen können
+==== LZ 5-1: Kosten-Nutzen-Bewertungen als gezielte Maßnahme einordnen können
 
 * Die Cost-Benefit Analysis Method (CBAM) kennen
 * Die zu ATAM unterschiedliche Verwendung von Qualitätsszenarien verstehen
@@ -50,13 +50,7 @@
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
-==== LG 5-1: TBD
-tbd.
 
-[[LG-5-2]]
-==== LG 5-2: TBD
-tbd.
 // end::EN[]
 
 // tag::REMARK[]
