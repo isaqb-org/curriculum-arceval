@@ -4,13 +4,13 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Grundbegriffe von Architekturbewertung |	45
-| 2. Anforderungen in der Architekturbewertung | 90
-| 3. Szenario-basierte Bewertung | 240
-| 4. Bewertung bestehender System(-teil)e | 45
-| 5. Alternative Bewertungsmethoden | 150
+| 1. Grundbegriffe von Architekturbewertung |	60
+| 2. Anforderungen in der Architekturbewertung | 120
+| 3. Szenario-basierte Bewertung | 150
+| 4. Bewertung bestehender System(-teil)e | 60
+| 5. Alternative Bewertungsmethoden | 90
 | 6. Beispiele | 90
-| Summe | 660 (11h)
+| Summe | 570 (9,5h)
 
 |===
 

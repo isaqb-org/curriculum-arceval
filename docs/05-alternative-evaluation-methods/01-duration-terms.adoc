@@ -1,10 +1,10 @@
 // tag::DE[]
 |===
-| Dauer: 60 Min. | Übungszeit: 90 Min.
+| Dauer: 45 Min. | Übungszeit: 45 Min.
 |===
 
 === Begriffe und Konzepte
-CBAM, DCAR, PBAR, TARA
+Kosten-Nutzen-Bewertungen (CBAM), Entscheidungsbasierte Verfahren (DCAR), Experten-basierte Verfahren (TARA) und andere Bewertungsmöglichkeiten (PBAR, ARID, Pre Mortems, ...)
 
 // end::DE[]
 
