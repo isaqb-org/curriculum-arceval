@@ -2,7 +2,7 @@
 
 // tag::DE[]
 
-In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qualitativen Bewertung von Software-Architekturen kennen.
+In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qualitativen Bewertung von Softwarearchitekturen kennen.
 
 [[LZ-3-1]]
 ==== LZ 3-1: ATAM (Architecture Tradeoff Analysis Method) verstehen
@@ -14,7 +14,7 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 * Inputs für ATAM Workshops kennen und den Schritten zuordnen
 
 [[LZ-3-2]]
-==== LZ 3-2: Qualitative Bewertung von Software-Architekturen nach ATAM durchführen
+==== LZ 3-2: Qualitative Bewertung von Softwarearchitekturen nach ATAM durchführen
   
 * Vorgehen bei qualitativer Bewertung erklären und durchführen
 * Erstellung von Szenarien und Qualitätsbäumen erklären und durchführen

@@ -2,12 +2,12 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Grundlagen der Software-Architektur verstehen
+==== LZ 1-1: Grundlagen der Softwarearchitektur verstehen
 
 * Begründen, warum Architekturarbeit grundlegend ist, im Projekt breite Auswirkungen hat und entsprechende Entscheidungen schwer zurückzunehmen sind
 * Begründen, warum Architekturarbeit iterativ erfolgen sollte und Feedbackschleifen benötigt
-* Begründen, dass der Fokus von Software-Architektur auf Qualitätsmerkmalen liegt als Differenzierung gegenüber reiner Funktionalität
-* Verstehen die Notwendigkeit von Gruppenprozessen für die Weiterentwicklung von Software-Architekturen
+* Begründen, dass der Fokus von Softwarearchitektur auf Qualitätsmerkmalen liegt als Differenzierung gegenüber reiner Funktionalität
+* Verstehen die Notwendigkeit von Gruppenprozessen für die Weiterentwicklung von Softwarearchitekturen
 
 [[LZ-1-2]]
 ==== LZ 1-2: Nutzen von Architekturbewertung erklären
@@ -32,7 +32,7 @@
 [[LZ-1-4]]
 ==== LZ 1-4: Voraussetzungen für Architekturbewertung erläutern
 
-* Notwendige Artefakte der Software-Architektur und deren angemessenen Detaillierungsgrad in konkreten Projektsituationen 
+* Notwendige Artefakte der Softwarearchitektur und deren angemessenen Detaillierungsgrad in konkreten Projektsituationen 
 * Rahmenbedingungen
 * Konkrete Qualitätsanforderungen
 * Dokumentierte Architekturentscheidungen

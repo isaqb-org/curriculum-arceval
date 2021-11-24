@@ -2,7 +2,7 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Den Zusammenhang von Software-Qualität und Software-Architektur verstehen
+==== LZ 2-1: Den Zusammenhang von Softwarequalität und Softwarearchitektur verstehen
 
 * Die Bedeutung von qualitativen Anforderungen für die Architektur erklären. 
 * Die Begriffe "Qualität" und "Qualitätsmerkmal" präzisieren.
@@ -38,7 +38,7 @@
 [[LZ-2-4]]
 ==== LZ 2-4: Architektursichten bedarfsgerecht für die Bewertung auswählen können
 
-* bekannte Sichten auf Software-Architekturen verstehen:
+* bekannte Sichten auf Softwarearchitekturen verstehen:
 ** Kontextsicht
 ** Bausteinsicht
 ** Laufzeitsicht

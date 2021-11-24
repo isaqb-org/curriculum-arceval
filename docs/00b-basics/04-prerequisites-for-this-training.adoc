@@ -8,10 +8,10 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
-- Kenntnis typischer Herausforderungen beim Entwurf von Software-Architekturen:
+- Kenntnis typischer Herausforderungen beim Entwurf von Softwarearchitekturen:
   * Auswahl geeigneter Dokumentationsstrukturen, Notationen, Ergebnistypen (Stakeholderorientierung)
   * Gemeinsame Arbeit an grundlegenden Konzepten der zu erstellenden Software
-  * Orientierung von Software-Architektur an Anforderungen und Rahmenbedingungen
+  * Orientierung von Softwarearchitektur an Anforderungen und Rahmenbedingungen
   * Messung und Evaluation der Qualität von Entwürfen und Entscheidungen
 // end::DE[]
 

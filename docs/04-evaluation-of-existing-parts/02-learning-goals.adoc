@@ -11,7 +11,7 @@
 [[LZ-4-2]]
 ==== LZ 4-2: Umsetzungsprüfung der Architekturansätze im Source Code verstehen
 
-* Bewertung von Software-Architekturen im Hinblick auf ihre Umsetzung durchführen, d. h. die Frage beantworten, in wie weit eine Architektur auch im Code umgesetzt wurde.
+* Bewertung von Softwarearchitekturen im Hinblick auf ihre Umsetzung durchführen, d. h. die Frage beantworten, in wie weit eine Architektur auch im Code umgesetzt wurde.
 * Tools für den Abgleich von Umsetzung und Architekturidee benennen (z.B. Sonargraph, Structure101, ArchUnit)
 * Eignung der Tools, um Ist-Architekuren Bottom-Up zu erheben und Abgleiche mit Soll-Architekturen durchzuführen, verstehen
 
