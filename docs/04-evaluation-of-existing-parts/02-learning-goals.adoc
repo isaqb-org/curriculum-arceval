@@ -34,13 +34,7 @@
 // end::DE[]
 
 // tag::EN[]
-[[LG-5-1]]
-==== LG 5-1: TBD
-tbd.
 
-[[LG-5-2]]
-==== LG 5-2: TBD
-tbd.
 // end::EN[]
 
 // tag::REMARK[]
