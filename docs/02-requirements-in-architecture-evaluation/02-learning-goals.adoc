@@ -48,7 +48,7 @@
 * Verwendbarkeit von bestehenden Sichten für die Bewertung einschätzen können.
 
 [[LZ-2-5]]
-==== LZ 2-5: Unterschiedliche Wirkungen der Begriffe Ansatz und Entscheidung erläutern
+==== LZ 2-5: Unterschiedliche Wirkungen der Begriffe „Architekturansatz“ und „Architekturentscheidung“ auf die Haltung von Teilnehmenden und Evaluierenden in Bewertungsworkshops erläutern
 
 [[LZ-2-6]]
 ==== LZ 2-6: Geeignete Formen der Entscheidungsdokumentation für die Bewertung auswählen
