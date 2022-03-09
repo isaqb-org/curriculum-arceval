@@ -4,18 +4,18 @@
 |===
 
 === Begriffe und Konzepte
-Qualität, Qualitätsmerkmale, DIN/ISO 9126, DIN/ISE 25010, Szenarien, Qualitätsbaum, Wechselwirkungen, Taktiken.
+Qualität, Qualitätsmerkmale, DIN/ISO 9126, DIN/ISO 25010, Szenarien, Qualitätsbaum, Wechselwirkungen, Taktiken.
 
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 90 min
+| Lesson duration: 60 min | Exercises: approx. 90 min
 |===
 
 === Terms and Concepts
-Term 1, Term 2, Term 3
+Quality, quality attributes, ISO 9126, ISO 25010, scenarios, utility tree, trade-offs, tactics.
 
 // end::EN[]
 
