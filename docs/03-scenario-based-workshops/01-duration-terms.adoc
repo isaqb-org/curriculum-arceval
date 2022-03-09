@@ -10,11 +10,11 @@ ATAM, Kompromisse, Risiken, Nicht-Risiken, Sensitive Punkte, Entscheidungen, Rah
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Lesson duration: 60 min | Exercises: approx. 90 min
 |===
 
 === Terms and Concepts
-Term 1, Term 2, Term 3
+ATAM, trade-offs, risks, non-risks, sensitive points, decisions, framework, phases of ATAM, stakeholder participation, scenario-based walk-through, assessment workshop, discovery review, interacting with development,risk clusters, mitigation measures, communicating results, reports, presentations, strengths and weaknesses, traffic light scores.
 
 // end::EN[]
 
