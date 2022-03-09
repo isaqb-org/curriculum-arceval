@@ -14,7 +14,7 @@ Qualität, Qualitätsmerkmale, DIN/ISO 9126, DIN/ISE 25010, Szenarien, Qualität
 | Duration: 60 min | Practice time: 90 min
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 Term 1, Term 2, Term 3
 
 // end::EN[]

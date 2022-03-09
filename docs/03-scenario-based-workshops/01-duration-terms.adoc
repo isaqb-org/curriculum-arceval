@@ -13,7 +13,7 @@ ATAM, Kompromisse, Risiken, Nicht-Risiken, Sensitive Punkte, Entscheidungen, Rah
 | Duration: XXX min | Practice time: XXX min
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 Term 1, Term 2, Term 3
 
 // end::EN[]

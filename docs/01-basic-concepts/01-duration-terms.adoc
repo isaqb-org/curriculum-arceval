@@ -14,7 +14,7 @@ Softwareachitektur, Architekturbewertung, übergreifende Konzepte/Aspekte, Archi
 | Duration: 90 min | Practice time: 30 min
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 Term 1, Term 2, Term 3
 // end::EN[]
 
