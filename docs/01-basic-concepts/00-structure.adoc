@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== Basic Terminology of Architecture Evaluation
 // end::EN[]
 
 
