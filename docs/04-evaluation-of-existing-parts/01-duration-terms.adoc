@@ -11,7 +11,7 @@ Pain Points, Werkzeuge.
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Lesson duration: 40 min | Exercises: approx. 20 min
 |===
 
 === Terms and Concepts
