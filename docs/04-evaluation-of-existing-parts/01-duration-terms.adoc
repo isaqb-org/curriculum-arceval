@@ -15,7 +15,8 @@ Pain Points, Werkzeuge.
 |===
 
 === Terms and Concepts
-Term 1, Term 2, Term 3
+Metrics, measurements, mathematical models, implementation check, current architecture, target architecture,
+pain points, tools.
 
 // end::EN[]
 
