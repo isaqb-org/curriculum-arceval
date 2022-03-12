@@ -4,18 +4,16 @@
 |===
 
 === Begriffe und Konzepte
-
 Softwareachitektur, Architekturbewertung, übergreifende Konzepte/Aspekte, Architekturziele, nichtfunktionale und funktionale Anforderungen an Systeme, Einflussfaktoren, Bewertungsmethoden.
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Lesson duration: 30 min | Exercises: approx.: 30 min
+| Lesson duration: 30 min | Exercises: approx. 30 min
 |===
 
 === Terms and Concepts
-
 Software architecture, architecture evaluation, crosscutting concepts/concerns, architecture goals, non-functional and functional requirements for systems, influences, evaluation methods.
 
 // end::EN[]

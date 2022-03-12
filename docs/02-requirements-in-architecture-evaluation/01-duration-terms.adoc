@@ -11,7 +11,7 @@ Qualität, Qualitätsmerkmale, DIN/ISO 9126, DIN/ISO 25010, Szenarien, Qualität
 
 // tag::EN[]
 |===
-| Lesson duration: 60 min | Exercises: approx. 90 min
+| Lesson duration: 60 min | Exercises: approx. 60 min
 |===
 
 === Terms and Concepts
