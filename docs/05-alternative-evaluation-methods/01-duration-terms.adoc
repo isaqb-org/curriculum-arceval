@@ -13,7 +13,7 @@ Kosten-Nutzen-Bewertungen (CBAM), Entscheidungsbasierte Verfahren (DCAR), Expert
 | Lesson duration: 45 min | Exercises: approx. 45 min
 |===
 
-=== Terms and Concepts
+=== Terms and concepts
 Cost-benefit assessments (CBAM), decision-based methods (DCAR), expert-based methods (TARA), and other evualuation options (PBAR, ARID, pre-mortems, ...).
 
 // end::EN[]

@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Basic Terminology of Architecture Evaluation
+== Basic terminology of architecture evaluation
 // end::EN[]
 
 

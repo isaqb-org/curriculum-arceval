@@ -14,7 +14,7 @@ Pain Points, Werkzeuge.
 | Lesson duration: 40 min | Exercises: approx. 20 min
 |===
 
-=== Terms and Concepts
+=== Terms and concepts
 Metrics, measurements, mathematical models, implementation check, current architecture, target architecture,
 pain points, tools.
 

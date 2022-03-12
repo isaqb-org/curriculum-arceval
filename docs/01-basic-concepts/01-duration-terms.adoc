@@ -13,7 +13,7 @@ Softwareachitektur, Architekturbewertung, übergreifende Konzepte/Aspekte, Archi
 | Lesson duration: 30 min | Exercises: approx. 30 min
 |===
 
-=== Terms and Concepts
+=== Terms and concepts
 Software architecture, architecture evaluation, crosscutting concepts/concerns, architecture goals, non-functional and functional requirements for systems, influences, evaluation methods.
 
 // end::EN[]
