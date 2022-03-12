@@ -11,11 +11,12 @@ Pain Points, Werkzeuge.
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Lesson duration: 40 min | Exercises: approx. 20 min
 |===
 
-=== Terms and Principles
-Term 1, Term 2, Term 3
+=== Terms and Concepts
+Metrics, measurements, mathematical models, implementation check, current architecture, target architecture,
+pain points, tools.
 
 // end::EN[]
 

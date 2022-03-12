@@ -6,7 +6,7 @@
 // end::DE[]
 
 // tag::EN[]
-== And This is Module no 5
+== Other Evaluation Methods
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
