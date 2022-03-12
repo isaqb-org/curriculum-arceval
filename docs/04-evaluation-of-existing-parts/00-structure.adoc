@@ -6,7 +6,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Evaluation of Existing System (Parts)
+== Evaluation of existing systems (or their parts)
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
