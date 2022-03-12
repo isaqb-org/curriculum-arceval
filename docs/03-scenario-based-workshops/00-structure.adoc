@@ -2,11 +2,11 @@
 // ====================================================
 
 // tag::DE[]
-== Vorgehen bei der Bewertung
+== Szenario-basierte Workshops
 // end::DE[]
 
 // tag::EN[]
-== Evaluation Process
+== Scenario-based workshops
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
