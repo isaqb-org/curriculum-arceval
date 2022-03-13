@@ -75,12 +75,74 @@
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: TBD
-tbd.
+==== LG 2-1: Understand the relationship between software quality and software architecture
+
+* Explain the importance of quality requirements for architecture. 
+* Clarify the terms "quality" and "quality attribute".
+* Interpret different quality models (e.g. DIN/ISO 25010).
+* Explain characteristics of important quality attributes:
+** Basic approach to dealing with them.
+** Interrelationship and interactions of quality attributes.
 
 [[LG-2-2]]
-==== LG 2-2: TBD
-tbd.
+==== LG 2-2: Elicitate quality scenarios
+
+* Distinguish types of scenarios from each other:
+** Use case scenarios
+** Growth scenarios
+** Exploratory scenarios
+
+* Apply elicitation techniques to scenarios:
+** Brainstorming / Quality Storming
+** Interview
+** Derivation from NFR specification
+
+* Explain possible components of scenarios for refinement and concretion.
+
+[[LG-2-3]]
+==== LG 2-3: Document quality scenarios
+
+* Describe placement of scenarios in architecture documentation.
+* Work with utility trees:
+** Explain their usefulness.
+** Create utility trees.
+** Use them to prioritize quality requirements.
+
+[[LG-2-4]]
+==== LG 2-4: Be able to select appropriate architectural views for evaluation
+
+* Understand familiar views of software architectures:
+** context view
+** building block view
+** runtime view
+** deployment view
+
+* Explain importance of views in the course of different evaluation methods.
+* Be able to assess usability of existing views for evaluation.
+
+[[LG-2-5]]
+==== LG 2-5: Explain different effects of the terms "architectural approach" and "architectural decision" on the attitudes of participants and evaluators in evaluation workshops.
+
+[[LG-2-6]]
+==== LG 2-6: Select appropriate forms of decision documentation for the evaluation
+
+* ADRs
+* Key points
+* Concepts
+* Source code fragments
+* Measurements and metrics
+
+[[LG-2-7]]
+==== LG 2-7: Understand constraints
+
+* Know common categories of constraints:
+** Technical constraints
+** Organizational constraints
+** Conventions
+
+* Explain differences between constraints and quality requirements:
+** Constraints are met or not met (binary).
+** Quality requirements can be partially fulfilled or even overfulfilled
 // end::EN[]
 
 // tag::REMARK[]
