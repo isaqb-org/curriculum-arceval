@@ -26,8 +26,25 @@ Einige Beispiele (möglichst) realitätsnaher Bewertungsinputs und Bewertungserg
 
 
 // tag::EN[]
+Presentation, possibly elaboration and evaluation of at least one example of a software architecture.
+
 [[LG-98-1]]
-==== LG 98-1: Last learning goal of the curriculum
+==== LG 98-1: What do participants need to understand?
+
+The process of evaluation workshops and the evaluation possibilities that arise with realistic
+architectures.
+
+[[LG-98-2]]
+==== LG 98-2: What do participants need to know?
+
+Some examples of (as close as possible) realistic evaluation inputs and evaluation results:
+
+* Scenarios
+* Documented constraints
+* Documented decisions
+* Architecture overview
+* Pain points and sensitive points
+* Documented trade-offs, risks and non-risks
 // end::EN[]
 
 
