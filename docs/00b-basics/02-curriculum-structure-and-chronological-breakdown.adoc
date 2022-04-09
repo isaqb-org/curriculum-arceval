@@ -23,14 +23,14 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+| 1. Basic terminology of architecture evaluation | 60
+| 2. Requirements in architecture evaluation | 120
+| 3. Scenario-based workshops | 150
+| 4. Evaluation of existing systems (or their parts) | 60
+| 5. Other evaluation methods | 90
+| 6. examples | 90
 | |
-| Total | 960 (16h)
+| Total | 570 (9.5h)
 
 |===
 

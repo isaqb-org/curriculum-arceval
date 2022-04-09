@@ -25,7 +25,8 @@
 [[LZ-5-4]]
 ==== LZ 5-4: PBAR (Pattern-based Architecture Reviews) in Grundzügen verstehen
   
-* Anwendbarkeit von PBAR verstehen und Stärken/Schwächen von Musterbasierter Analyse benennen können
+* Anwendbarkeit von PBAR verstehen
+* Stärken/Schwächen von Musterbasierter Analyse benennen können
 
 [[LZ-5-5]]
 ==== LZ 5-5: ARID (Active Review for Intermediate Designs) in Grundzügen verstehen
@@ -50,6 +51,52 @@
 // end::DE[]
 
 // tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: Be able to classify cost-benefit analysis as a targeted measure
+
+* Know the Cost-Benefit Analysis Method (CBAM).
+* Understand the different use of quality scenarios compared to ATAM.
+* Be able to assess and explain the applicability and accuracy of CBAM.
+
+[[LG-5-2]]
+==== LG 5-2: Understand the broad outlines of DCAR (Decision Centric Architecture Reviews)
+ 
+* Know the use of ADRs (Architecture Decision Records) in DCAR.
+* Understand basic concepts of DCAR (Decision Force, Dependencies Relation Diagram, ...)
+* Understand the applicability of DCAR in agile and iterative processes
+* Understand the difference in applicability compared to other methods (like ATAM)
+
+[[LG-5-3]]
+==== LG 5-3: Understand the broad outlines of the TARA (Tiny Architecture Review Approach)
+  
+* Be able to name the (dis-)advantages of an evaluation by experts.
+* Classify ATAM elements in TARA and understand the context.
+
+[[LG-5-4]]
+==== LG 5-4: Understand the broad outlines of PBAR (Pattern-based Architecture Reviews)
+  
+* Understand the applicability of PBAR 
+* Be able to name strengths/weaknesses of Pattern Based Analysis.
+
+[[LG-5-5]]
+==== LG 5-5: Understand the broad outlines of ARID (Active Review for Intermediate Designs)
+  
+* Be able to explain the Active Review approach
+* Be able to classify applicability, effort and benefit of ARID 
+
+[[LG-5-6]]
+==== LG 5-6: Be able to structure larger evaluations
+
+* Be able to identify factors that lead to more elaborate evaluations.
+* Be able to combine basic elements of qualitative and quantitative evaluation methods to support larger, structured, and targeted evaluations.
+* Be able to estimate staffing requirements on both the reviewer and participant sides.
+
+[[LG-5-7]]
+==== LG 5-7: Be able to explain ideas for quick software architecture reviews
+
+* Understand ways to streamline quality-focused reviews.
+* Be able to name risk collections and brainstorming approaches
+* Understand the scaling of small evalutations into more informed reviews and be able to explain the transition
 
 // end::EN[]
 

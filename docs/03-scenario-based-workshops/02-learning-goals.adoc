@@ -38,7 +38,7 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 * Empfehlungen und deren Einsortierung in Lücken und Potentiale
 
 [[LZ-3-5]]
-==== LZ 3-5: Einflüsse der Bewertungs-Ergebnisse auf iterative Prozesse verstehen
+==== LZ 3-5: Einflüsse der Bewertungsergebnisse auf iterative Prozesse verstehen
   
 * Risiken aktiv angehen
 * offene Entscheidungen planen
@@ -53,13 +53,53 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 // end::DE[]
 
 // tag::EN[]
+In this part, participants get to know the core of the methodological approach for the qualitative evaluation of software architectures.
+
 [[LG-3-1]]
-==== LG 3-1: TBD
-tbd.
+==== LG 3-1: Understand the ATAM (Architecture Tradeoff Analysis Method)
+
+* Be able to prepare evaluation workshops according to the ATAM in a suitable way.
+* Explain the phases of the ATAM
+* Explain the steps of the core phases of the ATAM (Phase 1 and 2) and adapt them to the needs of your own project.
+* Identify participants in each phase
+* Know inputs for ATAM workshops and assign them to the steps
 
 [[LG-3-2]]
-==== LG 3-2: TBD
-tbd.
+==== LG 3-2: Perform qualitative evaluation of software architectures according to the ATAM
+
+* Explain and perform procedures for qualitative assessment
+* Explain and elicitate quality scenarios and utility trees
+* Analyze approaches with regard to quality scenarios
+* Be able to apply questioning techniques to guide analysis in breadth or in depth and maintain focus
+* Identify risks, non-risks, sensitivity points and trade-off points and be able to record them in an understandable way
+* Justify the importance of facilitation
+
+[[LG-3-3]]
+==== LG 3-3: Derive direct and condensed result types
+
+* Risk clusters and risk groups
+* Strengths and weaknesses of an architecture
+* Gaps to the central quality objectives
+
+[[LG-3-4]]
+==== LG 3-4: Describe communication tools for communicating results
+
+* Structured reports and their important parts
+* Structured presentation of results
+* Recommendations and their classification into gaps and potentials
+
+[[LG-3-5]]
+==== LG 3-5: Understand influences of evaluation results on iterative processes
+
+* actively address risks
+* plan open decisions
+* reduce uncertainties
+
+[[LG-3-6]]
+==== LG 3-6: Adapt the evaluation process to your own context
+
+* Understand the supplemental effect of quantitative techniques.
+* Know methods to streamline the process (e.g. light weight ATAM).
 // end::EN[]
 
 // tag::REMARK[]

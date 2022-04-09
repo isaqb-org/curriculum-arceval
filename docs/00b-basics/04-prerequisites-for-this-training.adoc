@@ -20,17 +20,16 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+- Fundamentals of documenting software architectures using different views, cross-cutting concepts, design decisions, constraints, etc., as taught in CPSA Foundation Level.
+- Desirable is own experience in the development and maintenance of software, especially the architecture of software or software-related systems.
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
+- Knowledge of typical challenges in the design of software architectures:
+  * Selection of appropriate documentation structures, notations, result types (stakeholder orientation).
+  * Joint work on fundamental concepts of the software to be created
+  * Alignment of software architecture with requirements and constraints
+  * Measuring and evaluating the quality of designs and decisions
 // end::EN[]
 
 // tag::REMARK[]
