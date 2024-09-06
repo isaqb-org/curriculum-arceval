@@ -15,7 +15,7 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 
 [[LZ-3-2]]
 ==== LZ 3-2: Qualitative Bewertung von Softwarearchitekturen nach ATAM durchführen
-  
+
 * Vorgehen bei qualitativer Bewertung erklären und durchführen
 * Erstellung von Szenarien und Qualitätsbäumen erklären und durchführen
 * Ansätze hinsichtlich Szenarien analysieren
@@ -28,7 +28,7 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 
 * Risiko-Cluster und Risiko-Gruppen
 * Stärken und Schwächen einer Architektur
-* Lücken zu den zentralen Qualitätszielen 
+* Lücken zu den zentralen Qualitätszielen
 
 [[LZ-3-4]]
 ==== LZ 3-4: Kommunikationsmittel für die Vermittlung von Ergebnissen beschreiben
@@ -39,7 +39,7 @@ In diesem Teil lernen die Teilnehmer den Kern des methodischen Vorgehens zur qua
 
 [[LZ-3-5]]
 ==== LZ 3-5: Einflüsse der Bewertungsergebnisse auf iterative Prozesse verstehen
-  
+
 * Risiken aktiv angehen
 * offene Entscheidungen planen
 * Unsicherheiten ausräumen
@@ -102,9 +102,4 @@ In this part, participants get to know the core of the methodological approach f
 * Know methods to streamline the process (e.g. light weight ATAM).
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
+

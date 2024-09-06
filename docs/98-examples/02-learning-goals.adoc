@@ -47,11 +47,3 @@ Some examples of (as close as possible) realistic evaluation inputs and evaluati
 * Documented trade-offs, risks and non-risks
 // end::EN[]
 
-
-// tag::REMARK[]
-
-[NOTE]
-====
-KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
-====
-// end::REMARK[]

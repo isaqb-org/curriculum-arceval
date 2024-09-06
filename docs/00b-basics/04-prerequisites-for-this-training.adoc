@@ -31,10 +31,3 @@ Knowledge in the following areas may be **helpful** for understanding some conce
   * Alignment of software architecture with requirements and constraints
   * Measuring and evaluating the quality of designs and decisions
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
-// end::REMARK[]

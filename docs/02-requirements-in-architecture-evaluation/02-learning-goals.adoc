@@ -4,7 +4,7 @@
 [[LZ-2-1]]
 ==== LZ 2-1: Den Zusammenhang von Softwarequalität und Softwarearchitektur verstehen
 
-* Die Bedeutung von qualitativen Anforderungen für die Architektur erklären. 
+* Die Bedeutung von qualitativen Anforderungen für die Architektur erklären.
 * Die Begriffe "Qualität" und "Qualitätsmerkmal" präzisieren.
 * Verschiedene Qualitätsmodelle (z.B. DIN/ISO 25010) interpretieren.
 * Eigenschaften wichtiger Qualitätsmerkmale erklären:
@@ -77,7 +77,7 @@
 [[LG-2-1]]
 ==== LG 2-1: Understand the relationship between software quality and software architecture
 
-* Explain the importance of quality requirements for architecture. 
+* Explain the importance of quality requirements for architecture.
 * Clarify the terms "quality" and "quality attribute".
 * Interpret different quality models (e.g. DIN/ISO 25010).
 * Explain characteristics of important quality attributes:
@@ -145,9 +145,4 @@
 ** Quality requirements can be partially fulfilled or even overfulfilled
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
+

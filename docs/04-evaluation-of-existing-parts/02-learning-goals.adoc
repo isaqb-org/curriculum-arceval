@@ -16,17 +16,17 @@
 * Eignung der Tools, um Ist-Architekuren Bottom-Up zu erheben und Abgleiche mit Soll-Architekturen durchzuführen, verstehen
 
 [[LZ-4-3]]
-==== LZ 4-3: Metriken zur Bewertung einsetzen 
+==== LZ 4-3: Metriken zur Bewertung einsetzen
 
 * Konkrete Metriken für die Überprüfung von Design Best-Practices erklären. (z.B. Distanz, Fan-In/Fan-Out, zyklomatische Komplexität)
 * Einsatz von Metriken planen (aus Zielsicht, nicht aus Toolsicht)
-* Messungen interpretieren (Default-Einstellungen hinterfragen, auf Trends achten) 
+* Messungen interpretieren (Default-Einstellungen hinterfragen, auf Trends achten)
 * Verstehen, dass Messungen geeignete Ausgangspunkte für tiefere Analysen sind
 
 [[LZ-4-4]]
 ==== LZ 4-4: Den Einsatz dynamischer Prüfverfahren planen
 
-* Möglichkeiten der dynamischen Software-Prüfung benennen 
+* Möglichkeiten der dynamischen Software-Prüfung benennen
 * Für dynamische Prüfung geeignete Qualitätsmerkmale kennen.
 * Ansätze der statischen Analyse in stark verteilten Umfeldern (Microservices) mit dynamischen Mitteln nachstellen.
 * Einflechtung dieser Techniken in größere Bewertungsvorhaben erklären.
@@ -53,22 +53,17 @@
 
 * Explain metrics for reviewing design best practices. (e.g., distance, fan-in/fan-out, cyclomatic complexity).
 * Plan use of metrics (to fulfill requirements, not for the sake of using a tool).
-* Interpret measurements (question default settings, look for trends). 
+* Interpret measurements (question default settings, look for trends).
 * Understand that measurements are appropriate starting points for deeper analysis.
 
 [[LG-4-4]]
 ==== LG 4-4: Plan the use of dynamic analysis methods
 
-* Name the potentials of dynamic software analysis. 
+* Name the potentials of dynamic software analysis.
 * Know quality attributes suitable for dynamic analysis.
 * Recreate approaches to static analysis in highly distributed environments (microservices) using dynamic means.
 * Explain incorporation of these techniques into larger evaluation projects.
 
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
+

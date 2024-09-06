@@ -32,7 +32,7 @@
 [[LZ-1-4]]
 ==== LZ 1-4: Voraussetzungen für Architekturbewertung erläutern
 
-* Notwendige Artefakte der Softwarearchitektur und deren angemessenen Detaillierungsgrad in konkreten Projektsituationen 
+* Notwendige Artefakte der Softwarearchitektur und deren angemessenen Detaillierungsgrad in konkreten Projektsituationen
 * Rahmenbedingungen
 * Konkrete Qualitätsanforderungen
 * Dokumentierte Architekturentscheidungen
@@ -86,7 +86,7 @@
 [[LG-1-4]]
 ==== LG 1-4: Explain prerequisites for architecture evaluation
 
-* Necessary artifacts of software architecture and their appropriate level of detail in concrete project situations. 
+* Necessary artifacts of software architecture and their appropriate level of detail in concrete project situations.
 * Constraints
 * Concrete quality requirements
 * Documented architecture decisions
@@ -107,9 +107,4 @@
 ==== LG 1-6: Understand that different methods complement each other and can be combined
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
+

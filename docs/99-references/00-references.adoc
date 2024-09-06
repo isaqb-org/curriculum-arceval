@@ -13,25 +13,6 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
-
-= = =
-
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-ATTENTION: labels have to be non-numeric.
-====
-// end::REMARK[]
-
 **B**
 
 - [[[bachmann,Bachmann+2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
@@ -42,8 +23,7 @@ ATTENTION: labels have to be non-numeric.
 **C**
 
 - [[[clements2002,Clements+2002]]] Clements, P., R. Kazman, M. Klein: Evaluating Software Architectures – Methods and Case Studies.Addison Wesley, 2002.
-
-- [[[clements,Clements+2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
+- [[[clements,Clements+2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 
 **D**
 
@@ -57,9 +37,7 @@ ATTENTION: labels have to be non-numeric.
 **K**
 
 - [[[kazman,Kazman+2000]]] Kazman, R., Klein, M., Clements, P.: ATAM: Method for Architecture Evaluation. Software Engineering Institute, CMU/SEI-2000-TR-004.
-
 - [[[kazman2005,Kazman+2005]]] Kazman, R., Bass, L.: Categorizing Business Goals for Software Architectures. Software Engineering Institute, CMU/SEI-2005-TR-021.
-
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
 **M**
@@ -74,6 +52,5 @@ the Cost Benefit Analysis Method (CBAM). Software Engineering Institute, CMU/SEI
 **S**
 
 - [[[sonarqube, Sonarqube]]] Sonarqube, online: https://www.sonarqube.org/
-
 - [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Softwarearchitekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
 

@@ -1,9 +1,3 @@
-// tag::REMARK[]
-[NOTE]
-====
-Bitte die **?** durch die Anzahl der Tage sowie die erreichbaren Punkte ersetzen.
-====
-// end::REMARK[]
 :recommended-duration-in-days: 2
 :methodical-credits: 20
 :technical-credits: 0

@@ -10,7 +10,7 @@
 
 [[LZ-5-2]]
 ==== LZ 5-2: DCAR (Decision Centric Architecture Reviews) in Grundzügen verstehen
- 
+
 * Die Verwendung von ADRs (Architecture Decision Records) in DCAR kennen
 * Grundbegriffe von DCAR (Decision Force, Dependencies Relation Diagram, …) verstehen
 * Die Anwendbarkeit von DCAR in agilen und iterativen Prozessen verstehen
@@ -18,21 +18,21 @@
 
 [[LZ-5-3]]
 ==== LZ 5-3: TARA (Tiny Architecture Review Approach) in Grundzügen verstehen
-  
+
 * Vor- und Nachteile einer Bewertung durch Experten benennen können
 * ATAM-Elemente in TARA einordnen und den Zusammenhang verstehen
 
 [[LZ-5-4]]
 ==== LZ 5-4: PBAR (Pattern-based Architecture Reviews) in Grundzügen verstehen
-  
+
 * Anwendbarkeit von PBAR verstehen
 * Stärken/Schwächen von Musterbasierter Analyse benennen können
 
 [[LZ-5-5]]
 ==== LZ 5-5: ARID (Active Review for Intermediate Designs) in Grundzügen verstehen
-  
+
 * Aktiven Review-Ansatz erklären können
-* Anwendbarkeit, Aufwand und Nutzen von ARID einordnen können 
+* Anwendbarkeit, Aufwand und Nutzen von ARID einordnen können
 
 [[LZ-5-6]]
 ==== LZ 5-6: Größere Bewertungsvorhaben strukturieren können
@@ -60,7 +60,7 @@
 
 [[LG-5-2]]
 ==== LG 5-2: Understand the broad outlines of DCAR (Decision Centric Architecture Reviews)
- 
+
 * Know the use of ADRs (Architecture Decision Records) in DCAR.
 * Understand basic concepts of DCAR (Decision Force, Dependencies Relation Diagram, ...)
 * Understand the applicability of DCAR in agile and iterative processes
@@ -68,21 +68,21 @@
 
 [[LG-5-3]]
 ==== LG 5-3: Understand the broad outlines of the TARA (Tiny Architecture Review Approach)
-  
+
 * Be able to name the (dis-)advantages of an evaluation by experts.
 * Classify ATAM elements in TARA and understand the context.
 
 [[LG-5-4]]
 ==== LG 5-4: Understand the broad outlines of PBAR (Pattern-based Architecture Reviews)
-  
-* Understand the applicability of PBAR 
+
+* Understand the applicability of PBAR
 * Be able to name strengths/weaknesses of Pattern Based Analysis.
 
 [[LG-5-5]]
 ==== LG 5-5: Understand the broad outlines of ARID (Active Review for Intermediate Designs)
-  
+
 * Be able to explain the Active Review approach
-* Be able to classify applicability, effort and benefit of ARID 
+* Be able to classify applicability, effort and benefit of ARID
 
 [[LG-5-6]]
 ==== LG 5-6: Be able to structure larger evaluations
@@ -100,9 +100,4 @@
 
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]
+
