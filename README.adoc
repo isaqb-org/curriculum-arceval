@@ -1,4 +1,4 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= https://isaqb.org[iSAQB] Advanced Level Curriculum ARCEVAL
 
 :toc:
 :toc-placement!:
