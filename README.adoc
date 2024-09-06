@@ -11,7 +11,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-== Status 
+== Status
 image:https://github.com/isaqb-org/curriculum-arceval/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI – Releases and Main"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-arceval/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-arceval.svg["Contributors",link="https://github.com/isaqb-org/curriculum-arceval/graphs/contributors"]
@@ -31,7 +31,7 @@ Create an issue or a pull request.
 
 == How to Build the Curriculum
 
-1. Clone or download - but include the submodule:
+1. Clone or download including submodules:
 +
 --
 [source,shell]
@@ -43,19 +43,16 @@ Via HTTPS:
 git clone https://github.com/isaqb-org/curriculum-arceval.git --recursive
 ----
 --
-2. You can build this repository with gradle via `./gradlew buildDocs`.
-3. Look into the file `build.gradle` to see what attributes you may configure. Watch for:
-** the `language` attribute, either `DE` (German) or `EN` (English);
-** the output formats called `backends` (pdf and/or html5);
-** the document version.
+2. You can build this repository with gradle via `./gradlew buildDocs`. You need a Java runtime (17 or higher).
+
 
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Maintainers
 
-This repository is currently maintained by Benjamin Wolf.
-It was forked from https://github.com/isaqb-org/curriculum-template,
+This repository is currently maintained by the curators of the ARCEVAL curriculum.
+It was forked from https://github.com/isaqb-org/advanced-template,
 so the contributors of that project basically contributed to this one, too.
 
 
