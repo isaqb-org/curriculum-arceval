@@ -43,7 +43,7 @@ Via HTTPS:
 git clone https://github.com/isaqb-org/curriculum-arceval.git --recursive
 ----
 --
-2. You can build this repository with gradle via `./gradlew buildDocs`. You need a Java runtime (17 or higher).
+2. You can build this repository with gradle via `./gradle-tools/gradlew buildDocs`. You need a Java runtime (17 or higher).
 
 
 == Additional translations/languages
